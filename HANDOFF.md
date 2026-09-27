@@ -1,7 +1,7 @@
 # HANDOFF — Cypress Command article hub
 
 **As of:** 2026-09-26 · `main` @ 795460a · production = https://articles.cypresscommand.com
-**Repo:** `C:\Users\adam\Projects\article series\shopping-center-series\site-v2` · GitHub `OrangeOnyx/cypress-command-articles` (renamed from `shopping-center-operator-series` 2026-09-26) · Vercel project `site-v2` (team `adams-projects`), Git integration on: every push to `main` promotes to production; every other branch gets a preview.
+**Repo:** `C:\Users\adam\Projects\article series\shopping-center-series\site-v2` · GitHub `OrangeOnyx/cypress-command-articles` (renamed from `shopping-center-operator-series` 2026-09-26) · Vercel project `site-v2` (team `adams-projects-0c52918e`), Git integration on: every push to `main` promotes to production; every other branch gets a preview.
 
 ## What is live
 
