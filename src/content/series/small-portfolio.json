@@ -4,6 +4,36 @@
   "shortTitle": "Small Portfolio",
   "deck": "Visibility, reporting, and decision preparation for owners running a handful of properties or locations, where one spreadsheet no longer covers it.",
   "kind": "series",
-  "state": "coming-soon",
-  "order": 5
+  "state": "published",
+  "order": 5,
+  "parts": [
+    {
+      "num": 1,
+      "roman": "I",
+      "name": "See the Whole",
+      "ink": "terra"
+    },
+    {
+      "num": 2,
+      "roman": "II",
+      "name": "Run It Across Sites",
+      "ink": "olive"
+    },
+    {
+      "num": 3,
+      "roman": "III",
+      "name": "Decide With It",
+      "ink": "mustard"
+    }
+  ],
+  "plannedTitles": [
+    "When One Spreadsheet Stops Covering It: Signs a Portfolio Needs a System",
+    "One Chart of Accounts, Many Locations: Making the Numbers Comparable",
+    "The Portfolio Rollup: Five Numbers an Owner Should See Every Month",
+    "Standardize the Work, Not the Places: What Should Be the Same Everywhere",
+    "Shared Vendors, Separate Sites: Managing Services Across a Portfolio",
+    "The Monthly Owner Report: One Page That Scales from Two Sites to Ten",
+    "Ranking Capital Needs You Can't All Fund This Year",
+    "The Decision Package: What a Lender, Partner, or Buyer Should Be Able to See"
+  ]
 }

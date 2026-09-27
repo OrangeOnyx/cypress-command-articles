@@ -14,18 +14,24 @@ const counts = Object.fromEntries(await Promise.all(series.map(async (s) => [s.d
 const notes = (await getArticlesIn('field-notes')).slice(0, 4);
 const interactive = (await getInteractive()).slice(-3).reverse();
 const published = series.filter((s) => s.data.state === 'published').length;
+const inProgress = series.length - published;
+const publishedSeries = series.filter((s) => s.data.kind === 'series' && s.data.state === 'published').length;
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+const words = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'];
 const heroTiles = [
   { n: counts['shopping-center'], label: 'Shopping center articles', href: '/shopping-center/', ink: 'terra' },
   { n: counts['field-notes'], label: 'Field notes from the desk', href: '/field-notes/', ink: 'olive' },
-  { n: series.length - published, label: 'Series in progress', href: '#collections', ink: 'mustard' },
+  inProgress > 0
+    ? { n: inProgress, label: 'Series in progress', href: '#collections', ink: 'mustard' }
+    : { n: publishedSeries, label: 'Published series', href: '#collections', ink: 'mustard' },
 ];
 ---
-<Base title="Cypress Command — Articles" description="Operator-grade writing on the work that runs real businesses. The Shopping Center Operator Series, Field Notes, and more series in progress.">
+<Base title="Cypress Command — Articles" description="Operator-grade writing on the work that runs real businesses: five series on owning, running, and governing an owner-led business, and field notes from the operator's desk.">
   <section class="hero-band"><div class="wrap">
     <div class="hero-panel cc-surface-brand cc-elev-brand cc-reveal">
       <span class="cc-eyebrow">Cypress Command · Articles</span>
       <h1 class="display">Operator-grade writing on the work that runs real businesses.</h1>
-      <p class="deck">A finished forty-article series on owning and running a shopping center, a lane of field notes from the operator's desk, and four series in progress.</p>
+      <p class="deck">{cap(String(words[publishedSeries] ?? publishedSeries))} finished series, from owning a shopping center to governing the AI in your workflows, and a lane of field notes from the operator's desk{inProgress > 0 ? `, with ${words[inProgress] ?? inProgress} more in progress` : ''}.</p>
       <div class="hero-actions"><a class="btn btn-primary" href="#collections">Browse the collections</a><a class="btn btn-outline-paper" href="/shopping-center/">Start with the series</a></div>
       <div class="hero-tiles">
         {heroTiles.map((t) => (
@@ -40,7 +46,7 @@ const heroTiles = [
   </div></section>
 
   <section class="section" id="collections"><div class="wrap">
-    <div class="section-head"><span class="num">01</span><span class="title">Collections</span><span class="kicker">{published} published · {series.length - published} in progress</span></div>
+    <div class="section-head"><span class="num">01</span><span class="title">Collections</span><span class="kicker">{published} published{inProgress > 0 ? ` · ${inProgress} in progress` : ''}</span></div>
     <div class="cards">{series.map((s) => <CollectionCard series={s} count={counts[s.data.slug]} />)}</div>
   </div></section>
 

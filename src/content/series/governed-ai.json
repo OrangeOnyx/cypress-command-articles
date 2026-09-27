@@ -4,9 +4,36 @@
   "shortTitle": "Governed AI",
   "deck": "The practical side of governance when AI touches real decisions: what the model prepares, what the owner signs, and where the boundary is written down.",
   "kind": "series",
-  "state": "coming-soon",
+  "state": "published",
   "order": 6,
   "plannedTitles": [
-    "AI in CRE Underwriting: What the Model Prepares and What the Owner Signs"
+    "AI in CRE Underwriting: What the Model Prepares and What the Owner Signs",
+    "The AI Use Register: Writing Down Where AI Touches the Business",
+    "Prepare, Recommend, Decide: Three Levels of AI Involvement and Who Signs Each",
+    "Data In, Data Out: What an AI Tool Should and Should Not See",
+    "The Audit Trail: Recording What AI Prepared and What a Person Changed",
+    "Vendor AI Features: Questions to Ask Before Your Software Turns Them On",
+    "When the Model Changes Under You: Reviewing AI Workflows After Updates",
+    "A One-Page AI Policy an Owner-Led Business Can Actually Follow"
+  ],
+  "parts": [
+    {
+      "num": 1,
+      "roman": "I",
+      "name": "Draw the Boundary",
+      "ink": "terra"
+    },
+    {
+      "num": 2,
+      "roman": "II",
+      "name": "Keep It Accountable",
+      "ink": "olive"
+    },
+    {
+      "num": 3,
+      "roman": "III",
+      "name": "Govern It Over Time",
+      "ink": "mustard"
+    }
   ]
 }

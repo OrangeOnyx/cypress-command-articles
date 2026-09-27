@@ -4,6 +4,36 @@
   "shortTitle": "Owner's Contracts",
   "deck": "Leases, vendor agreements, insurance policies, and service contracts: what to read, what to track, and how to organize the paper so the business can act on it. Context, not counsel.",
   "kind": "series",
-  "state": "coming-soon",
-  "order": 4
+  "state": "published",
+  "order": 4,
+  "parts": [
+    {
+      "num": 1,
+      "roman": "I",
+      "name": "Read the Paper",
+      "ink": "terra"
+    },
+    {
+      "num": 2,
+      "roman": "II",
+      "name": "Track What It Promises",
+      "ink": "olive"
+    },
+    {
+      "num": 3,
+      "roman": "III",
+      "name": "Keep the Paper Usable",
+      "ink": "mustard"
+    }
+  ],
+  "plannedTitles": [
+    "Every Contract Is an Operating Manual: Reading for Obligations, Not Just Terms",
+    "The Clauses That Create Recurring Work: Notice, Renewal, Insurance, and Reporting",
+    "Dates That Run Themselves: Auto-Renewals, Notice Windows, and Evergreen Terms",
+    "The Obligation Register: One Table for Everything Your Contracts Require",
+    "Certificates of Insurance: The Recurring Paper Most Owners Stop Checking",
+    "Vendor and Service Agreements: Scope, Change Orders, and What \"Complete\" Means",
+    "Amendments, Side Letters, and the Version You Can Actually Rely On",
+    "Where AI Helps with Contracts, and Where a Lawyer Still Has to Read It"
+  ]
 }
