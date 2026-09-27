@@ -1,6 +1,6 @@
 # HANDOFF — Cypress Command article hub
 
-**As of:** 2026-09-26 · `main` @ 795460a · production = https://articles.cypresscommand.com
+**As of:** 2026-09-27 · `main` @ d5f6e97 · production = https://articles.cypresscommand.com
 **Repo:** `C:\Users\adam\Projects\article series\shopping-center-series\site-v2` · GitHub `OrangeOnyx/cypress-command-articles` (renamed from `shopping-center-operator-series` 2026-09-26) · Vercel project `site-v2` (team `adams-projects-0c52918e`), Git integration on: every push to `main` promotes to production; every other branch gets a preview.
 
 ## What is live
@@ -12,9 +12,9 @@ A multi-collection Astro 7 static hub, styled from Brand Standards 2.3 (2.2 at l
 | The Shopping Center Operator Series | published | 40 articles, 11 parts, map page, 5 interactive articles |
 | Field Notes | published | 20 harvested notes (fact-reviewed 2026-09-23) plus article 31 surfaced from the series |
 | The Operating Systems Series | published | 10 articles in 3 parts (See the Work, Build What Helps, Make It Stick), from the content master §7.7 titles |
-| The Owner's Contracts Series | coming soon | deck only |
-| The Small Portfolio Series | coming soon | deck only |
-| The Governed AI Series | coming soon | 1 planned title |
+| The Owner's Contracts Series | published | 8 articles in 3 parts (Read the Paper, Track What It Promises, Keep the Paper Usable); context, not counsel |
+| The Small Portfolio Series | published | 8 articles in 3 parts (See the Whole, Run It Across Sites, Decide With It) |
+| The Governed AI Series | published | 8 articles in 3 parts (Draw the Boundary, Keep It Accountable, Govern It Over Time); no compliance claims |
 
 Routes: `/`, `/<collection>/`, `/<collection>/<slug>/`, `/shopping-center/map/`, `/desk/<own|run|lease|finance|buy|sell>/`, `/about/`, `/search-index.json`. Every legacy URL (`/article?id=…`, `/article.html?id=…`, `/article`, `/map`, `/map.html`, `/index.html`) redirects; production responses are recorded in `docs/verification/2026-09-23/production-redirects.md`.
 
@@ -44,6 +44,6 @@ Routes: `/`, `/<collection>/`, `/<collection>/<slug>/`, `/shopping-center/map/`,
 
 ## Open items
 
-1. Write the three remaining coming-soon series (Owner's Contracts, Small Portfolio, Governed AI). A series needs `parts` in its manifest before it is published: the landing lists articles only through its parts. The Operating Systems Series (2026-09-26) is the model: parts named in the manifest, a shared writer's spine, one view-from-Arnould plate per article, each plate using a different approved fact.
+1. Every collection is published (2026-09-27). A new series needs `parts` in its manifest before it is published (the landing lists articles only through its parts). The model that worked: a writer's spine that assigns each article its desk and a distinct approved fact for its view-from-Arnould plate, then a review pass for claims beyond the public record. Homepage counts derive from the manifests.
 2. `DESIGN.md` (derived 2026-09-26 from the shipped site) and its sidecar `.impeccable/design.json` record the design system. `design-system/` stays the canonical token source.
 3. Small deferred items, none blocking: `engines` field in package.json; a `.gitattributes` for line endings; the search heading regex is not fence-aware; `InkLegend` is hard-coded to the Shopping Center part numbers (fine while only that series has a map); `components.css` in the 2.3 package still carries a v2.0 header.
