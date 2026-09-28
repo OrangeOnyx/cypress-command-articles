@@ -5,7 +5,7 @@ author: "Cypress Command"
 date: "2026-09-29"
 read_time: "5 min"
 desk: "lease"
-status: "review"
+status: "published"
 source: "belle-ops"
 ---
 
