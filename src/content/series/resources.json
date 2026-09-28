@@ -1,0 +1,61 @@
+{
+  "slug": "resources",
+  "title": "Resources",
+  "shortTitle": "Resources",
+  "deck": "Blank worksheets for the operator's desk: handover, maintenance, owner reporting, percentage rent, and forms that should never carry another owner's name.",
+  "kind": "lane",
+  "state": "coming-soon",
+  "order": 7,
+  "plannedTitles": [
+    "Shopping Center Operator Checklist",
+    "Percentage Rent Audit Worksheet",
+    "Shopping Center PM Skill Matrix",
+    "Shopping Center Handover Checklist",
+    "ACH Debit Authorization (blank)",
+    "Maintenance Control Pack",
+    "Owner Reporting Templates",
+    "Operator Resource Index"
+  ],
+  "shelf": [
+    {
+      "title": "Shopping Center Operator Checklist",
+      "deck": "Acquisition, CAM reconciliation, default response, and vendor control — ranges to test, not a filing script.",
+      "href": "/resources/shopping-center-operator-checklist.md"
+    },
+    {
+      "title": "Percentage Rent Audit Worksheet",
+      "deck": "One blank per tenant per year: breakpoint, gross sales, exclusions, and the true-up. The number stops here; the letter does not.",
+      "href": "/resources/percentage-rent-audit-worksheet.md"
+    },
+    {
+      "title": "Shopping Center PM Skill Matrix",
+      "deck": "Six competencies, five levels, scored on artifacts. A study frame for a working operator.",
+      "href": "/resources/shopping-center-pm-skill-matrix.md"
+    },
+    {
+      "title": "Shopping Center Handover Checklist",
+      "deck": "Blank transition file from pre-closing through the first 90 days. Louisiana labels are an example layer, not a property file.",
+      "href": "/resources/shopping-center-handover-checklist.md"
+    },
+    {
+      "title": "ACH Debit Authorization (blank)",
+      "deck": "A blank debit authorization. The company name is a field, not letterhead.",
+      "href": "/resources/ach-debit-authorization.md"
+    },
+    {
+      "title": "Maintenance Control Pack",
+      "deck": "Takeover, inspection, preventive calendar, work-order priorities, vendors, capex, and the daily walk.",
+      "href": "/resources/maintenance-control-pack.md"
+    },
+    {
+      "title": "Owner Reporting Templates",
+      "deck": "The same owner package every month: dashboard, monthly report, quarterly review, and the blanks around them.",
+      "href": "/resources/owner-reporting-templates.md"
+    },
+    {
+      "title": "Operator Resource Index",
+      "deck": "Which worksheet to open, and which series article already covers the topic.",
+      "href": "/resources/operator-resource-index.md"
+    }
+  ]
+}
