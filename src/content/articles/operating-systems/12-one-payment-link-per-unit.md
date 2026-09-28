@@ -6,7 +6,7 @@ eyebrow: "BUILD WHAT HELPS"
 deck: "A building-wide pay link makes the memo line your rent roll. One link per unit makes the payment identify itself. A spreadsheet can hold that register until the work outgrows it."
 author: "Cypress Command"
 date: "2026-09-28"
-read_time: "7 min"
+read_time: "8 min"
 desk: "run"
 status: "review"
 ---
@@ -71,6 +71,8 @@ This setup will not calculate a late fee, reconcile the year's common-area costs
 What you do by hand is the tie-out. Export the sheet when you close receipts. Match the received total to the deposit that hit the bank, less processor fees, less anything still inside a return window. One number, sheet versus bank, plus a list of timing differences. If you cannot tie it, you do not have a register.
 
 Hand the export to whoever posts the books. They should not have to read memos. If they do, the link labels are not surviving the handoff. Fix that before you add columns.
+
+Here is the tie-out on the illustrative register above, assuming the ACH fee from the companion article, $0.75 a debit, and assuming only rows whose window has passed may count as cleared. A-1 is received at $2,400. A-2 is still submitted at $1,850, so it stays out of the cleared total. B-1 is a partial $1,000 whose window has passed, with $2,100 still open. Cleared receipts are $3,400. Two cleared items cost $1.50 in fees. The bank deposit that belongs to those items is $3,398.50. If the bank shows that amount, the sheet ties. If the bank shows $5,248.50 because someone also swept A-2, you do not "fix" the sheet to match the bank. You put A-2 back in the in-window pile and you leave the cash unspent until the window ends. The open balance on B-1 stays $2,100. It is not a rounding difference.
 
 ## When the spreadsheet is no longer the system
 

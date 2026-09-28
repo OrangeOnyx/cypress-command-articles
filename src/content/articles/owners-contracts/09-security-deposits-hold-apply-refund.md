@@ -63,6 +63,16 @@ Once a month, tie three figures. The liability by lease sums to the control tota
 
 One row per lease, on the obligation register or a log it points to. New deposits hit the log the day they arrive, already split from rent. Refunds hit the log the day they are sent. Applications hit the log when the letter goes out, invoices attached.
 
+A log that would satisfy the tie looks like this. Names and amounts are illustrative.
+
+| Lease party | State | Liability now | Where the cash sits | Last movement |
+|---|---|---|---|---|
+| Northline Sample LLC | Hold | $4,800 | Deposit account | Received with the first month, split from rent |
+| Harbor Sample LLC | Closed | $0 | — | $900 applied to unpaid rent, $3,900 refunded, proof of sending in the file |
+| (vacant suite, prior lease) | Hold | $2,000 | Deposit account | Tenant gone, refund not sent. This row is late. |
+
+The third row is why the tie exists. The liability is real, the cash should still be there, and the clock counsel gave you is running. Hold, apply, or refund. The liability is then the full amount or zero, and you can explain which.
+
 AI can list liabilities with no lease row, cash movements with no letter, and ended leases still on hold. A person decides whether an application is permitted and signs the refund. The model does not determine ordinary wear, and it does not say what the law requires you to return.
 
 ## The file that answers the question later

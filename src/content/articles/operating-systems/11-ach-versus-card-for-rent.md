@@ -63,6 +63,8 @@ Keep a card path. Write down what it is for.
 
 A card earns its place when the amount is small, the timing is once, or the alternative is not getting paid. An application fee, a minor bill-back, a prospect who will not wire: those are intelligible uses. A tenant already on ACH who wants monthly rent on a card is a different conversation. Either the lease allows a convenience fee and you charge it, plainly, on top of total rent, or you decline and point them back to the draft. Absorbing the fee and calling it tenant service is how the illustrative $15,100 disappears with no line on the owner report.
 
+If the lease allows the tenant to bear the card cost, the fee is its own line. On the illustrative $2,400 draft, the card cost is $69.90, so the tenant pays $2,469.90. The register still shows $2,400 of rent and $69.90 of fee reimbursement. Do not let the fee become part of the rent. If counsel says the lease does not allow the line, you do not take the card.
+
 If a tenant pays part of a failed month by card, record a partial against that month's row. Do not convert the lease to a card account because one draft returned. A tenant whose bank cannot accept your kind of debit is an exception with an owner, in the sense of "Design for the Work That Does Not Go According to Plan": a suite, a reason, and a review date. It does not become the template for the next lease.
 
 ## A one-page rail rule

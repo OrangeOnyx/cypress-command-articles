@@ -57,6 +57,8 @@ AI can list receipts with no unit, amounts that do not equal the register, and d
 
 Keep a one-line log: date, amount to operating, amount to deposits, amount left behind, and why. A few months of lines will show whether the cushion is right, and they show a later reader that the cash was looked at.
 
+An illustrative Wednesday, not any real company: the processor shows $18,400 available. Of that, $1,200 is a wire with no unit on the register, $4,800 is rent still inside the return window, and $3,000 is a new deposit that arrived through the same pipe. Releasable operating cash is $18,400 minus $1,200 minus $4,800 minus $3,000, which is $9,400. You release $9,400 to the operating account and $3,000 to the deposit account. You leave $6,000 where it is. The log line is those three amounts and the words "unmatched wire, return window, deposit." An empty subtraction is allowed. A release of the whole $18,400 because it was "available" is the mistake the card exists to prevent.
+
 ## What "available" is allowed to mean
 
 Processors use "available" for the balance their rules will let you pay out. Your word is stricter. Releasable cash is that balance, minus unmatched items, minus the return-window cushion, minus deposits and other restricted receipts. The remainder is what step 4 may move. If it is zero, you release nothing. An empty week means the filter worked.
