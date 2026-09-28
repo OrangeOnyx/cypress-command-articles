@@ -8,7 +8,7 @@ author: "Cypress Command"
 date: "2026-09-28"
 read_time: "8 min"
 desk: "finance"
-status: "review"
+status: "published"
 ---
 
 # ACH or Card: How Multi-Tenant Rent Actually Clears

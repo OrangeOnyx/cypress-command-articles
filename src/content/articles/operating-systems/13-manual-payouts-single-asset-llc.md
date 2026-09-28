@@ -8,7 +8,7 @@ author: "Cypress Command"
 date: "2026-09-28"
 read_time: "7 min"
 desk: "finance"
-status: "review"
+status: "published"
 ---
 
 # When a Single-Asset LLC Should Pay Itself by Hand

@@ -8,7 +8,7 @@ author: "Cypress Command"
 date: "2026-09-28"
 read_time: "8 min"
 desk: "finance"
-status: "review"
+status: "published"
 ---
 
 # Security Deposits: Hold, Apply, and Refund Without Spending the Cash

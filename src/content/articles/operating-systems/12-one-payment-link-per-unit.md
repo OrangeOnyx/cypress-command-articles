@@ -8,7 +8,7 @@ author: "Cypress Command"
 date: "2026-09-28"
 read_time: "8 min"
 desk: "run"
-status: "review"
+status: "published"
 ---
 
 # One Payment Link per Unit, Without a Full Property System

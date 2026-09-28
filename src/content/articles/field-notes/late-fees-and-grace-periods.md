@@ -5,7 +5,7 @@ author: "Cypress Command"
 date: "2026-09-28"
 read_time: "8 min"
 desk: "run"
-status: "review"
+status: "published"
 ---
 
 # Late fees and grace periods that survive a file review
