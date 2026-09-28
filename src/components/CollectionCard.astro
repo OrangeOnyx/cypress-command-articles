@@ -21,6 +21,7 @@ const ink = ['terra', 'olive', 'mustard', 'muscadine'][(s.order - 1) % 4];
   <span class="meta">
     {s.state === 'published'
       ? `${count} ${s.kind === 'lane' ? (count === 1 ? 'note' : 'notes') : (count === 1 ? 'article' : 'articles')}`
+      : s.shelf.length ? `${s.shelf.length} worksheets in review`
       : s.plannedTitles.length ? `${s.plannedTitles.length} titles planned` : 'Coming soon'}
   </span>
 </a>

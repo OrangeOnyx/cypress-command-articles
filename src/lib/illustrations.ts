@@ -439,6 +439,7 @@ const COLLECTION_KEYS: Record<string, string> = {
   'owners-contracts': 'contracts',
   'small-portfolio': 'portfolio',
   'governed-ai': 'governed',
+  'resources': 'checklists',
 };
 
 export function illustrationFor(opts: { part?: string; collection?: string }): string | undefined {
