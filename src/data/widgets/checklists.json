@@ -348,5 +348,2852 @@
         ]
       }
     ]
+  },
+  "res-operator": {
+    "title": "Shopping Center Operator Checklist",
+    "storageNote": "Progress saves in this browser. The printable blank is the download on the Resources shelf.",
+    "sections": [
+      {
+        "title": "Phase I: Pre-LOI Screening",
+        "items": [
+          {
+            "t": "Confirm property type: open-air, strip, neighborhood, power, lifestyle"
+          },
+          {
+            "t": "Verify GLA and anchor/inline split"
+          },
+          {
+            "t": "Review asking cap rate vs. market comps"
+          },
+          {
+            "t": "Confirm occupancy rate (physical vs. economic)"
+          },
+          {
+            "t": "Identify anchor tenants and lease expiration dates"
+          },
+          {
+            "t": "Check co-tenancy clause exposure"
+          },
+          {
+            "t": "Review trailing 12-month (T12) operating statement"
+          },
+          {
+            "t": "Identify deferred maintenance from broker tour"
+          },
+          {
+            "t": "Confirm parking ratio (minimum 4.0/1,000 sf)"
+          },
+          {
+            "t": "Check zoning and permitted uses"
+          }
+        ]
+      },
+      {
+        "title": "Phase II: Financial Underwriting",
+        "items": [
+          {
+            "t": "Normalize T12: remove non-recurring income"
+          },
+          {
+            "t": "Add back owner-managed expenses to market rate"
+          },
+          {
+            "t": "Verify CAM recovery ratio (target: 85\u201395%)"
+          },
+          {
+            "t": "Model vacancy at 5\u201310% stabilized"
+          },
+          {
+            "t": "Calculate management fee at 3\u20135% EGI"
+          },
+          {
+            "t": "Confirm CapEx reserve: $0.50\u2013$1.50/sf/yr"
+          },
+          {
+            "t": "Stress-test DSCR at 1.25x minimum"
+          },
+          {
+            "t": "Model anchor vacancy scenario"
+          },
+          {
+            "t": "Confirm debt coverage at market rate financing"
+          },
+          {
+            "t": "Build 5-year hold model with exit cap"
+          }
+        ]
+      },
+      {
+        "title": "Phase III: Lease Review",
+        "items": [
+          {
+            "t": "Abstract all leases: base rent, term, options, CAM, exclusives"
+          },
+          {
+            "t": "Flag co-tenancy clauses and trigger conditions"
+          },
+          {
+            "t": "Identify exclusivity restrictions on future leasing"
+          },
+          {
+            "t": "Confirm personal guaranty on all leases"
+          },
+          {
+            "t": "Review percentage rent clauses and breakpoints"
+          },
+          {
+            "t": "Check ROFO/ROFR provisions"
+          },
+          {
+            "t": "Identify lease termination rights"
+          },
+          {
+            "t": "Confirm assignment and subletting restrictions"
+          },
+          {
+            "t": "Review holdover rent provisions"
+          },
+          {
+            "t": "Flag any below-market leases with long remaining terms"
+          }
+        ]
+      },
+      {
+        "title": "Phase IV: Physical & Environmental",
+        "items": [
+          {
+            "t": "Commission Phase I Environmental Site Assessment"
+          },
+          {
+            "t": "Review Phase I \u2014 flag RECs for Phase II"
+          },
+          {
+            "t": "Inspect roof: age, condition, warranty status"
+          },
+          {
+            "t": "Inspect HVAC: age, tonnage, maintenance history"
+          },
+          {
+            "t": "Review parking lot: condition, ADA compliance, lighting"
+          },
+          {
+            "t": "Inspect electrical panels and service capacity"
+          },
+          {
+            "t": "Review plumbing and fire suppression systems"
+          },
+          {
+            "t": "Confirm ADA compliance: accessible routes, restrooms"
+          },
+          {
+            "t": "Review signage: pylon, building, monument"
+          },
+          {
+            "t": "Obtain contractor bids for deferred maintenance items"
+          }
+        ]
+      },
+      {
+        "title": "Phase V: Title & Survey",
+        "items": [
+          {
+            "t": "Order ALTA/NSPS survey"
+          },
+          {
+            "t": "Review REAs, easements, and CC and Rs"
+          },
+          {
+            "t": "Confirm parking easements and shared access"
+          },
+          {
+            "t": "Identify encroachments or boundary issues"
+          },
+          {
+            "t": "Review title commitment \u2014 flag Schedule B exceptions"
+          },
+          {
+            "t": "Confirm no mechanics' liens"
+          },
+          {
+            "t": "Verify flood zone status (FEMA)"
+          },
+          {
+            "t": "Review reciprocal easement agreements with anchors"
+          },
+          {
+            "t": "Confirm utility easements and access"
+          },
+          {
+            "t": "Order title insurance: owner's and lender's policies"
+          }
+        ]
+      },
+      {
+        "title": "Annual Reconciliation Process",
+        "items": [
+          {
+            "t": "Pull prior-year CAM budget vs. actual comparison"
+          },
+          {
+            "t": "Categorize all expenses: includable vs. excludable"
+          },
+          {
+            "t": "Remove capital expenditures from CAM pool"
+          },
+          {
+            "t": "Remove management fee if excluded by lease"
+          },
+          {
+            "t": "Remove anchor-specific expenses if excluded"
+          },
+          {
+            "t": "Apply gross-up calculation for vacant spaces"
+          },
+          {
+            "t": "Calculate each tenant's pro-rata share"
+          },
+          {
+            "t": "Apply controllable CAM cap (typically 3\u20135%)"
+          },
+          {
+            "t": "Prepare reconciliation statement per tenant"
+          },
+          {
+            "t": "Send statements within 90\u2013120 days of year-end"
+          }
+        ]
+      },
+      {
+        "title": "Common CAM Exclusions to Verify",
+        "items": [
+          {
+            "t": "Capital improvements (roof replacement, parking lot reseal)"
+          },
+          {
+            "t": "Depreciation on capital items"
+          },
+          {
+            "t": "Leasing commissions and tenant improvement costs"
+          },
+          {
+            "t": "Marketing fund contributions (if separate)"
+          },
+          {
+            "t": "Anchor tenant spaces (if excluded by REA)"
+          },
+          {
+            "t": "Costs covered by insurance proceeds"
+          },
+          {
+            "t": "Management fee (if lease excludes)"
+          },
+          {
+            "t": "Legal fees for lease disputes"
+          },
+          {
+            "t": "Income taxes on landlord entity"
+          },
+          {
+            "t": "Financing costs and debt service"
+          }
+        ]
+      },
+      {
+        "title": "Tenant Audit Defense Preparation",
+        "items": [
+          {
+            "t": "Maintain all vendor invoices for 3 years"
+          },
+          {
+            "t": "Keep CAM ledger reconciled monthly"
+          },
+          {
+            "t": "Document gross-up methodology in writing"
+          },
+          {
+            "t": "Confirm audit rights window (typically 12\u201324 months)"
+          },
+          {
+            "t": "Prepare summary of includable expense categories"
+          },
+          {
+            "t": "Document all exclusions applied with lease citations"
+          },
+          {
+            "t": "Maintain allocation methodology for shared costs"
+          },
+          {
+            "t": "Keep copies of all reconciliation statements sent"
+          }
+        ]
+      },
+      {
+        "title": "Monetary Default",
+        "items": [
+          {
+            "t": "Confirm default: missed payment, partial payment, or NSF"
+          },
+          {
+            "t": "Check lease for notice requirements and cure period"
+          },
+          {
+            "t": "Send formal written demand via certified mail"
+          },
+          {
+            "t": "Document date of default and amount owed"
+          },
+          {
+            "t": "Calculate late fees per lease terms"
+          },
+          {
+            "t": "Review acceleration clause \u2014 decide whether to invoke"
+          },
+          {
+            "t": "Assess tenant's financial condition and history"
+          },
+          {
+            "t": "Determine: accept cure, negotiate, or proceed to eviction"
+          },
+          {
+            "t": "If the cure period has ended: stop. Hand the notice, the ledger, and the lease to counsel before any possession filing"
+          },
+          {
+            "t": "Do not change locks, shut off utilities, or exclude the occupant yourself. Self-help is not an operator step"
+          }
+        ]
+      },
+      {
+        "title": "Non-Monetary Default",
+        "items": [
+          {
+            "t": "Document the specific default (unauthorized use, sublease, etc.)"
+          },
+          {
+            "t": "Review lease for cure period (typically 30 days)"
+          },
+          {
+            "t": "Send written notice of default with specific cure requirement"
+          },
+          {
+            "t": "Photograph or document the default condition"
+          },
+          {
+            "t": "Set calendar reminder for cure period expiration"
+          },
+          {
+            "t": "Assess whether default is curable or incurable"
+          },
+          {
+            "t": "If the default may be incurable: ask counsel whether the lease allows termination, and wait for that answer"
+          },
+          {
+            "t": "Document all communications with tenant"
+          }
+        ]
+      },
+      {
+        "title": "Post-Eviction / Re-Leasing",
+        "items": [
+          {
+            "t": "Secure premises immediately after possession"
+          },
+          {
+            "t": "Change locks and alarm codes"
+          },
+          {
+            "t": "Conduct condition assessment and photograph everything"
+          },
+          {
+            "t": "Prepare cost estimate for restoration to leasable condition"
+          },
+          {
+            "t": "Pursue guarantor if personal guaranty exists"
+          },
+          {
+            "t": "File claim for unpaid rent, damages, and re-leasing costs"
+          },
+          {
+            "t": "Engage broker for re-leasing within 30 days"
+          },
+          {
+            "t": "Update rent roll and financial model for vacancy"
+          }
+        ]
+      },
+      {
+        "title": "Vendor Onboarding",
+        "items": [
+          {
+            "t": "Obtain W-9 and verify entity type"
+          },
+          {
+            "t": "Collect certificate of insurance (COI)"
+          },
+          {
+            "t": "Verify minimum coverage: $1M GL, $2M aggregate, $1M auto"
+          },
+          {
+            "t": "Confirm landlord named as additional insured"
+          },
+          {
+            "t": "Execute written service agreement before work begins"
+          },
+          {
+            "t": "Define scope of work, pricing, and payment terms"
+          },
+          {
+            "t": "Establish performance standards and KPIs"
+          },
+          {
+            "t": "Confirm licensing and bonding requirements"
+          },
+          {
+            "t": "Verify workers' compensation coverage"
+          },
+          {
+            "t": "Set up vendor in accounting system"
+          }
+        ]
+      },
+      {
+        "title": "Ongoing Vendor Performance",
+        "items": [
+          {
+            "t": "Track COI expiration dates (calendar reminders 60 days out)"
+          },
+          {
+            "t": "Conduct quarterly performance reviews for major vendors"
+          },
+          {
+            "t": "Document complaints and service failures in writing"
+          },
+          {
+            "t": "Compare invoices to contract pricing monthly"
+          },
+          {
+            "t": "Conduct annual competitive bid for contracts over $10K/yr"
+          },
+          {
+            "t": "Review landscaping: frequency, quality, seasonal schedule"
+          },
+          {
+            "t": "Review HVAC: PM schedule, response time, parts markup"
+          },
+          {
+            "t": "Review janitorial: frequency, scope, supply costs"
+          },
+          {
+            "t": "Review security: coverage hours, incident reporting"
+          },
+          {
+            "t": "Review parking lot: sweeping, striping, lighting maintenance"
+          }
+        ]
+      },
+      {
+        "title": "Vendor Termination",
+        "items": [
+          {
+            "t": "Review contract for termination notice requirements"
+          },
+          {
+            "t": "Send written termination notice per contract terms"
+          },
+          {
+            "t": "Secure all property access (keys, codes, badges)"
+          },
+          {
+            "t": "Obtain final invoice and reconcile open balances"
+          },
+          {
+            "t": "Document reason for termination in vendor file"
+          },
+          {
+            "t": "Transition work to replacement vendor before termination effective date"
+          },
+          {
+            "t": "Retain all documentation for 3 years"
+          }
+        ]
+      }
+    ]
+  },
+  "res-pct": {
+    "title": "Percentage Rent Audit Worksheet",
+    "storageNote": "Progress saves in this browser. The printable blank is the download on the Resources shelf.",
+    "sections": [
+      {
+        "title": "Inclusions (confirm these ARE counted)",
+        "items": [
+          {
+            "t": "All cash and credit card sales from the leased premises"
+          },
+          {
+            "t": "Online orders fulfilled from or picked up at the premises (if lease covers omnichannel)"
+          },
+          {
+            "t": "Gift card redemptions (at time of redemption, not issuance)"
+          },
+          {
+            "t": "Layaway payments (at time of completion)"
+          },
+          {
+            "t": "Delivery charges billed to customers"
+          },
+          {
+            "t": "Sales by sublicensees or concessionaires operating within the space"
+          }
+        ]
+      },
+      {
+        "title": "Standard Exclusions (confirm these are NOT counted)",
+        "items": [
+          {
+            "t": "Sales tax collected and remitted to government"
+          },
+          {
+            "t": "Returns and allowances (net of restocking fees)"
+          },
+          {
+            "t": "Employee discounts (up to lease cap, typically 5\u201310% of sales)"
+          },
+          {
+            "t": "Gift card issuances (not redemptions)"
+          },
+          {
+            "t": "Transfers between tenant locations (inter-store transfers)"
+          },
+          {
+            "t": "Sales of fixtures, equipment, or assets not in ordinary course"
+          },
+          {
+            "t": "Insurance proceeds"
+          },
+          {
+            "t": "Bad debt write-offs (if lease permits)"
+          }
+        ]
+      }
+    ]
+  },
+  "res-skill": {
+    "title": "Shopping Center PM Skill Matrix",
+    "storageNote": "Progress saves in this browser. The printable blank is the download on the Resources shelf.",
+    "sections": [
+      {
+        "title": "How to use the matrix",
+        "items": [
+          {
+            "t": "Score every row at a whole level from 1 to 5",
+            "n": "A level 4 still includes the work at level 2."
+          },
+          {
+            "t": "Circle the two rows with the widest gap between where you are and where the center needs you",
+            "n": "Those two are the quarter."
+          },
+          {
+            "t": "Name one artifact for each circled row",
+            "n": "A reconciliation, a renewal memo, a capital plan, or a report. Reading is not the artifact."
+          },
+          {
+            "t": "Put a 90-day rescore on the calendar",
+            "n": "Score the artifact, not the intention."
+          }
+        ]
+      }
+    ]
+  },
+  "res-handover": {
+    "title": "Shopping Center Handover Checklist",
+    "storageNote": "Progress saves in this browser. The printable blank is the download on the Resources shelf.",
+    "sections": [
+      {
+        "title": "1.1 Entity & Corporate Documents",
+        "items": [
+          {
+            "t": "Articles of Organization / Incorporation for owner entity (certified copy)"
+          },
+          {
+            "t": "Operating Agreement / Bylaws (current, fully executed, with all amendments)"
+          },
+          {
+            "t": "Certificate of Good Standing from Secretary of State [LA: louisiana.gov/SOS]"
+          },
+          {
+            "t": "EIN confirmation letter (IRS CP-575 or equivalent)"
+          },
+          {
+            "t": "Federal tax returns \u2014 prior 3 years (Form 1065 / 1120 / 1040-Sch E)"
+          },
+          {
+            "t": "State tax returns \u2014 prior 3 years"
+          },
+          {
+            "t": "Authorized signer resolution / consent for sale or transfer"
+          },
+          {
+            "t": "List of all members / shareholders with ownership percentages"
+          },
+          {
+            "t": "Capital account ledger / member contribution history"
+          },
+          {
+            "t": "Prior K-1s for all members (3 years)"
+          },
+          {
+            "t": "Any side letters, buy-sell agreements, or transfer restrictions"
+          },
+          {
+            "t": "UCC search on entity name (no liens against owner entity)"
+          },
+          {
+            "t": "Litigation search \u2014 entity as plaintiff or defendant"
+          }
+        ]
+      },
+      {
+        "title": "1.2 Title, Survey & Real Property",
+        "items": [
+          {
+            "t": "Vesting deed (most recent recorded conveyance to current owner)"
+          },
+          {
+            "t": "Chain of title \u2014 back 20+ years or to subdivision plat"
+          },
+          {
+            "t": "Current title commitment / preliminary title report"
+          },
+          {
+            "t": "Owner's title insurance policy (existing)"
+          },
+          {
+            "t": "All recorded exceptions to title \u2014 copies of each"
+          },
+          {
+            "t": "ALTA / NSPS Land Title Survey (recent \u2014 within 12 months ideal)"
+          },
+          {
+            "t": "Topographic survey if available"
+          },
+          {
+            "t": "As-built site plan"
+          },
+          {
+            "t": "Boundary survey with bearings / distances"
+          },
+          {
+            "t": "Legal description (metes and bounds) \u2014 verify matches deed"
+          },
+          {
+            "t": "Plat / subdivision map showing parcel(s)"
+          },
+          {
+            "t": "Mineral rights status [LA: critical \u2014 minerals often severed from surface]"
+          },
+          {
+            "t": "Servitudes of passage / utility servitudes [LA civil law term for easements]"
+          },
+          {
+            "t": "Air rights / subsurface rights documentation if applicable"
+          }
+        ]
+      },
+      {
+        "title": "1.3 Loan, Mortgage & Lender Documents",
+        "items": [
+          {
+            "t": "All current notes (promissory notes) on the property"
+          },
+          {
+            "t": "Mortgage / Deed of Trust / [LA: Act of Mortgage] for each loan"
+          },
+          {
+            "t": "Loan agreement and any modifications / extensions"
+          },
+          {
+            "t": "Most recent loan payoff statement (good for 30 days)"
+          },
+          {
+            "t": "Current loan amortization schedule"
+          },
+          {
+            "t": "Lender escrow analysis (tax, insurance, reserves)"
+          },
+          {
+            "t": "Reserve account balances (replacement, TI/LC, debt service)"
+          },
+          {
+            "t": "Lender estoppel / consent to transfer (if assumable loan)"
+          },
+          {
+            "t": "Defeasance or prepayment penalty quote (if applicable)"
+          },
+          {
+            "t": "UCC-1 filings by lender \u2014 review and prepare termination if paying off"
+          },
+          {
+            "t": "Cross-collateralization documents (if loan covers other properties)"
+          },
+          {
+            "t": "Loan covenants compliance certificates (DSCR, occupancy, etc.)"
+          },
+          {
+            "t": "Lender-required reports (operating statements, rent rolls submitted)"
+          },
+          {
+            "t": "Guaranty agreements and current status of guarantors"
+          }
+        ]
+      },
+      {
+        "title": "1.4 Easements, REAs, CC&Rs & Operating Covenants",
+        "items": [
+          {
+            "t": "Reciprocal Easement Agreement(s) \u2014 full executed copy with all amendments"
+          },
+          {
+            "t": "Operating Easement Agreement (OEA) if separate from REA"
+          },
+          {
+            "t": "Declaration of Covenants, Conditions and Restrictions (CC and Rs)"
+          },
+          {
+            "t": "Cross-parking easements"
+          },
+          {
+            "t": "Access / ingress-egress easements"
+          },
+          {
+            "t": "Utility easements (water, sewer, gas, electric, telecom, drainage)"
+          },
+          {
+            "t": "Stormwater / detention easements"
+          },
+          {
+            "t": "Sign easements (pylon, monument, off-premise)"
+          },
+          {
+            "t": "Anchor tenant operating covenants (continuous operation, hours, use)"
+          },
+          {
+            "t": "Co-tenancy and dark-store clauses affecting property obligations"
+          },
+          {
+            "t": "Common area maintenance obligations across multiple parcels"
+          },
+          {
+            "t": "REA-mandated insurance requirements and current compliance"
+          },
+          {
+            "t": "Approval rights \u2014 who must consent to leases, alterations, redevelopment"
+          },
+          {
+            "t": "Right of first refusal (ROFR) / right of first offer (ROFO) holders"
+          },
+          {
+            "t": "Schedule of all parties with REA approval rights"
+          }
+        ]
+      },
+      {
+        "title": "1.5 Zoning, Land Use & Entitlements",
+        "items": [
+          {
+            "t": "Current zoning classification \u2014 written verification"
+          },
+          {
+            "t": "Zoning compliance letter / zoning verification letter"
+          },
+          {
+            "t": "Permitted uses under current zoning"
+          },
+          {
+            "t": "Variances, special exceptions, conditional use permits granted"
+          },
+          {
+            "t": "Site plan approvals (original and amendments)"
+          },
+          {
+            "t": "Setback, height, parking ratio, FAR requirements vs actual"
+          },
+          {
+            "t": "Non-conforming use status (grandfathered uses)"
+          },
+          {
+            "t": "Pending zoning changes that could affect property"
+          },
+          {
+            "t": "Adjacent zoning and pending changes [LFT: check Lafayette Consolidated Government]"
+          },
+          {
+            "t": "Comprehensive plan / future land use designation"
+          },
+          {
+            "t": "Historic designation status (none expected for typical retail strip)"
+          },
+          {
+            "t": "Tax Increment Financing (TIF) district participation"
+          },
+          {
+            "t": "Economic development incentive agreements [LA: ITEP, RTA, Quality Jobs]"
+          }
+        ]
+      },
+      {
+        "title": "1.6 Environmental",
+        "items": [
+          {
+            "t": "Phase I Environmental Site Assessment (within 12 months for lender)"
+          },
+          {
+            "t": "Phase II ESA if Phase I identified recognized environmental conditions"
+          },
+          {
+            "t": "Historical use research (gas stations, dry cleaners, auto repair on site or adjacent)"
+          },
+          {
+            "t": "Underground storage tank (UST) registration and status"
+          },
+          {
+            "t": "Above-ground storage tank documentation"
+          },
+          {
+            "t": "Asbestos-containing materials (ACM) survey [pre-1981 buildings]"
+          },
+          {
+            "t": "Lead-based paint survey (commercial use exempt but tenants may trigger)"
+          },
+          {
+            "t": "Mold remediation history"
+          },
+          {
+            "t": "Radon testing results"
+          },
+          {
+            "t": "Stormwater Pollution Prevention Plan (SWPPP) if construction-active"
+          },
+          {
+            "t": "Spill Prevention Control and Countermeasures (SPCC) plan if applicable"
+          },
+          {
+            "t": "Wetlands delineation [LA: heightened relevance given Acadiana hydrology]"
+          },
+          {
+            "t": "FEMA flood zone designation and current Flood Insurance Rate Map (FIRM)"
+          },
+          {
+            "t": "Elevation certificate(s) for each building"
+          },
+          {
+            "t": "Letter of Map Amendment / Revision (LOMA / LOMR) if applicable"
+          },
+          {
+            "t": "Hurricane / windstorm damage history and repair records [LA]"
+          }
+        ]
+      },
+      {
+        "title": "1.7 Engineering, Structural & ADA",
+        "items": [
+          {
+            "t": "Property Condition Assessment (PCA) / Property Condition Report"
+          },
+          {
+            "t": "Structural engineer reports (any in last 5 years)"
+          },
+          {
+            "t": "Roof inspection reports and remaining useful life estimates"
+          },
+          {
+            "t": "HVAC inventory and condition assessment per unit"
+          },
+          {
+            "t": "Parking lot condition assessment (pavement, striping, lighting)"
+          },
+          {
+            "t": "Drainage / stormwater system condition"
+          },
+          {
+            "t": "ADA Title III accessibility audit"
+          },
+          {
+            "t": "ADA transition plan / remediation schedule"
+          },
+          {
+            "t": "Fire suppression system inspection (sprinklers, hoods)"
+          },
+          {
+            "t": "Backflow preventer test reports"
+          },
+          {
+            "t": "Elevator inspection certificates (if applicable)"
+          },
+          {
+            "t": "Generator load-bank test reports (if applicable)"
+          },
+          {
+            "t": "Geotechnical / soils report (original construction)"
+          }
+        ]
+      },
+      {
+        "title": "1.8 Lease Files & Tenant Documentation",
+        "items": [
+          {
+            "t": "Original lease (fully executed)"
+          },
+          {
+            "t": "All amendments, addenda, side letters in chronological order"
+          },
+          {
+            "t": "Renewal / extension exercises (written notices and acknowledgments)"
+          },
+          {
+            "t": "Letter of Intent (LOI) and original term sheet"
+          },
+          {
+            "t": "Guaranty agreements (corporate and personal)"
+          },
+          {
+            "t": "Guarantor financial statements and credit reports"
+          },
+          {
+            "t": "Tenant financial statements (most recent available)"
+          },
+          {
+            "t": "Tenant sales reports (if percentage rent or required reporting)"
+          },
+          {
+            "t": "Estoppel certificate \u2014 current within 30 days of closing"
+          },
+          {
+            "t": "Subordination, Non-Disturbance and Attornment Agreement (SNDA)"
+          },
+          {
+            "t": "Memorandum of Lease (recorded, if any)"
+          },
+          {
+            "t": "Tenant Improvement (TI) / Build-Out agreement and completion certificates"
+          },
+          {
+            "t": "TI allowance reconciliation \u2014 amounts paid and remaining"
+          },
+          {
+            "t": "Commencement Date Confirmation / Delivery Memo"
+          },
+          {
+            "t": "Punch list and resolution documentation"
+          },
+          {
+            "t": "Certificate of Occupancy for tenant space"
+          },
+          {
+            "t": "Certificate of Insurance (COI) \u2014 current, with landlord as additional insured"
+          },
+          {
+            "t": "Tenant W-9 (rare \u2014 typically reverse: landlord W-9 to tenant)"
+          },
+          {
+            "t": "Security deposit ledger (amount, form, holding location)"
+          },
+          {
+            "t": "Letter of Credit (if used as deposit) \u2014 original physical document and renewal status"
+          },
+          {
+            "t": "Prepaid rent ledger"
+          },
+          {
+            "t": "Default notices issued, cure status, and current standing"
+          },
+          {
+            "t": "Co-tenancy clause inventory and compliance status"
+          },
+          {
+            "t": "Exclusive use clause inventory (use restrictions binding other tenants)"
+          },
+          {
+            "t": "Radius restriction inventory (tenant cannot operate within X miles)"
+          },
+          {
+            "t": "Option to expand / contract / terminate inventory with trigger dates"
+          },
+          {
+            "t": "Right of First Refusal / First Offer on adjacent space"
+          },
+          {
+            "t": "Assignment / sublease history and consents"
+          },
+          {
+            "t": "Tenant operating hours requirements"
+          },
+          {
+            "t": "Signage rights documentation (pylon position, monument, fa\u00e7ade)"
+          }
+        ]
+      },
+      {
+        "title": "1.9 Rent Roll & Financial History",
+        "items": [
+          {
+            "t": "Certified rent roll as of due diligence date"
+          },
+          {
+            "t": "Aged delinquency report (current, 30, 60, 90+ days)"
+          },
+          {
+            "t": "Trailing 12 months rent roll (month by month)"
+          },
+          {
+            "t": "Historical occupancy \u2014 last 5 years monthly"
+          },
+          {
+            "t": "Operating statements \u2014 last 3 fiscal years"
+          },
+          {
+            "t": "Trailing 12 months operating statement (T-12)"
+          },
+          {
+            "t": "Year-to-date operating statement"
+          },
+          {
+            "t": "Trailing 3 months operating statement (T-3)"
+          },
+          {
+            "t": "Annual budget \u2014 current year"
+          },
+          {
+            "t": "Capital expenditure budget and history (5 years)"
+          },
+          {
+            "t": "General Ledger \u2014 current year and prior year"
+          },
+          {
+            "t": "Bank statements \u2014 last 12 months for all property accounts"
+          },
+          {
+            "t": "Tenant ledger (statement of charges and payments) per tenant"
+          },
+          {
+            "t": "List of one-time / non-recurring income and expenses"
+          }
+        ]
+      },
+      {
+        "title": "1.10 CAM, Tax & Insurance Reconciliations",
+        "items": [
+          {
+            "t": "CAM pool methodology documentation (gross-up, exclusions, caps)"
+          },
+          {
+            "t": "Pro-rata share calculations per tenant"
+          },
+          {
+            "t": "CAM reconciliations \u2014 last 3 years per tenant"
+          },
+          {
+            "t": "Real estate tax reconciliations \u2014 last 3 years"
+          },
+          {
+            "t": "Insurance pass-through reconciliations \u2014 last 3 years"
+          },
+          {
+            "t": "Tenant CAM dispute log and resolution status"
+          },
+          {
+            "t": "Outstanding CAM credits / billbacks to tenants"
+          },
+          {
+            "t": "Administrative fee / management fee inclusion in CAM"
+          },
+          {
+            "t": "Capital expenditures historically passed through (with tenant consent doc)"
+          },
+          {
+            "t": "CAM cap / stop calculations per tenant"
+          },
+          {
+            "t": "Audit rights exercised by tenants \u2014 copies and resolutions"
+          }
+        ]
+      },
+      {
+        "title": "1.11 Vendor & Service Contracts",
+        "items": [
+          {
+            "t": "Property management agreement (current)"
+          },
+          {
+            "t": "Leasing agreement / commission schedule (current and unpaid commissions)"
+          },
+          {
+            "t": "Landscaping / grounds maintenance contract"
+          },
+          {
+            "t": "Janitorial / common area cleaning contract"
+          },
+          {
+            "t": "Trash / waste removal contract"
+          },
+          {
+            "t": "Pest control contract"
+          },
+          {
+            "t": "HVAC service / preventive maintenance contract"
+          },
+          {
+            "t": "Roof maintenance / inspection contract"
+          },
+          {
+            "t": "Parking lot maintenance (striping, sealcoat, repairs)"
+          },
+          {
+            "t": "Parking lot sweeping contract"
+          },
+          {
+            "t": "Security service / patrol contract"
+          },
+          {
+            "t": "Security camera / alarm monitoring contract"
+          },
+          {
+            "t": "Fire alarm monitoring contract"
+          },
+          {
+            "t": "Fire sprinkler inspection contract (annual / quarterly)"
+          },
+          {
+            "t": "Fire extinguisher service contract"
+          },
+          {
+            "t": "Backflow preventer testing contract"
+          },
+          {
+            "t": "Elevator maintenance contract (if applicable)"
+          },
+          {
+            "t": "Generator maintenance contract (if applicable)"
+          },
+          {
+            "t": "Pylon / monument sign maintenance and electricity"
+          },
+          {
+            "t": "Window cleaning contract (if applicable)"
+          },
+          {
+            "t": "Snow removal \u2014 N/A in Acadiana but verify no legacy contracts"
+          },
+          {
+            "t": "Utility accounts inventory (electric, gas, water/sewer, telecom)"
+          },
+          {
+            "t": "Cable / internet contracts for management office or common areas"
+          },
+          {
+            "t": "Software subscriptions (PM platform, accounting, CRM)"
+          },
+          {
+            "t": "Vendor W-9s on file for all 1099-eligible vendors"
+          },
+          {
+            "t": "Vendor COIs current \u2014 all with landlord as additional insured"
+          },
+          {
+            "t": "Outstanding vendor invoices / aging payables"
+          },
+          {
+            "t": "Vendor contract assignability review (which require consent)"
+          }
+        ]
+      },
+      {
+        "title": "1.12 Litigation, Disputes & Claims",
+        "items": [
+          {
+            "t": "Active litigation as plaintiff (collection actions, evictions)"
+          },
+          {
+            "t": "Active litigation as defendant"
+          },
+          {
+            "t": "Threatened claims or demand letters (last 24 months)"
+          },
+          {
+            "t": "Insurance claims history (last 5 years) with loss runs"
+          },
+          {
+            "t": "Workers' compensation claims (if employees)"
+          },
+          {
+            "t": "ADA complaints or DOJ investigations"
+          },
+          {
+            "t": "Tenant disputes \u2014 log of unresolved issues"
+          },
+          {
+            "t": "Mechanics liens / privileges [LA: Private Works Act privileges]"
+          },
+          {
+            "t": "Notice of construction filings [LA: required for many projects]"
+          },
+          {
+            "t": "Code enforcement notices / violations"
+          }
+        ]
+      },
+      {
+        "title": "1.13 Insurance Policies & Loss History",
+        "items": [
+          {
+            "t": "Commercial property policy declarations (current and prior 3 years)"
+          },
+          {
+            "t": "Replacement cost / building valuation (RCV) appraisal"
+          },
+          {
+            "t": "Commercial general liability policy"
+          },
+          {
+            "t": "Umbrella / excess liability policy"
+          },
+          {
+            "t": "Flood insurance policy [LA: critical, NFIP and/or private]"
+          },
+          {
+            "t": "Windstorm / named peril coverage \u2014 verify hurricane deductible [LA]"
+          },
+          {
+            "t": "Earthquake (low priority LA but verify)"
+          },
+          {
+            "t": "Boiler and machinery / equipment breakdown"
+          },
+          {
+            "t": "Business income / rental income loss"
+          },
+          {
+            "t": "Ordinance or law coverage"
+          },
+          {
+            "t": "Pollution legal liability (if environmental concerns)"
+          },
+          {
+            "t": "Cyber liability (if collecting tenant data / online payments)"
+          },
+          {
+            "t": "Crime / employee dishonesty / fidelity bond"
+          },
+          {
+            "t": "D and O / EPLI if entity has board / employees"
+          },
+          {
+            "t": "Loss runs \u2014 5 years from each carrier"
+          },
+          {
+            "t": "Claims status \u2014 open and closed"
+          },
+          {
+            "t": "Pending / unrepaired insurance claim work"
+          },
+          {
+            "t": "Certificate holder list (lenders, REA parties)"
+          }
+        ]
+      },
+      {
+        "title": "1.14 Permits, Licenses & Certificates",
+        "items": [
+          {
+            "t": "Certificate of Occupancy \u2014 shell and core"
+          },
+          {
+            "t": "Certificate of Occupancy \u2014 each tenant suite"
+          },
+          {
+            "t": "Building permits \u2014 last 10 years (open and closed)"
+          },
+          {
+            "t": "Open / un-closed permits \u2014 must be resolved before closing"
+          },
+          {
+            "t": "Fire marshal inspection certificates [LA: State Fire Marshal]"
+          },
+          {
+            "t": "Health department permits (if food tenants) [LA: Dept of Health]"
+          },
+          {
+            "t": "Alcoholic Beverage Outlet (ABO) permits [LA: ATC]"
+          },
+          {
+            "t": "Sign permits"
+          },
+          {
+            "t": "Occupational licenses [LFT: Lafayette Consolidated Government]"
+          },
+          {
+            "t": "Sales tax registration [LA: state + parish/local separate registrations]"
+          },
+          {
+            "t": "Stormwater discharge permit (if applicable)"
+          },
+          {
+            "t": "Sprinkler / fire suppression certificates"
+          },
+          {
+            "t": "Elevator operating permits"
+          },
+          {
+            "t": "Generator air permits (if applicable)"
+          }
+        ]
+      },
+      {
+        "title": "2.1 Prorations & Closing Statement",
+        "items": [
+          {
+            "t": "Rent prorations \u2014 current month, by tenant"
+          },
+          {
+            "t": "Prepaid rent transfer to buyer"
+          },
+          {
+            "t": "Real estate tax proration [LA: parish assessor cycle \u2014 verify]"
+          },
+          {
+            "t": "Insurance proration / cancellation refund"
+          },
+          {
+            "t": "CAM, tax, insurance reconciliations \u2014 final true-up at closing or 90 days post"
+          },
+          {
+            "t": "Utility prorations and final meter readings"
+          },
+          {
+            "t": "Vendor accruals \u2014 outstanding work / unbilled services"
+          },
+          {
+            "t": "Management fee / leasing commissions accrual"
+          },
+          {
+            "t": "Outstanding TI / LC obligations assumed by buyer"
+          },
+          {
+            "t": "Lender escrow balance transfer or refund"
+          },
+          {
+            "t": "Reserve account transfer"
+          }
+        ]
+      },
+      {
+        "title": "2.2 Security Deposits & Letters of Credit",
+        "items": [
+          {
+            "t": "Security deposit reconciliation per tenant"
+          },
+          {
+            "t": "Cash deposit transfer to buyer's account (or credit at closing)"
+          },
+          {
+            "t": "LOC originals delivered to buyer"
+          },
+          {
+            "t": "LOC amendments / new LOCs in buyer's name (if required)"
+          },
+          {
+            "t": "Buyer assumes obligation to account / refund per lease terms"
+          },
+          {
+            "t": "Tenant notification of deposit transfer"
+          }
+        ]
+      },
+      {
+        "title": "2.3 Tenant Notification & Rent Direction",
+        "items": [
+          {
+            "t": "Joint tenant notification letter (seller + buyer) \u2014 signed and mailed"
+          },
+          {
+            "t": "Rent direction letter \u2014 new payee, address, ACH info, payment portal"
+          },
+          {
+            "t": "New W-9 for buyer entity delivered to all tenants"
+          },
+          {
+            "t": "ACH change instructions for tenants on auto-pay"
+          },
+          {
+            "t": "New COI requirements / additional insured update letter"
+          },
+          {
+            "t": "Welcome packet to tenants from new owner / PM"
+          },
+          {
+            "t": "Property manager introduction (name, phone, email, emergency line)"
+          }
+        ]
+      },
+      {
+        "title": "2.4 Estoppels & SNDAs",
+        "items": [
+          {
+            "t": "Estoppel certificate from each tenant \u2014 dated within 30 days of closing"
+          },
+          {
+            "t": "Discrepancies between estoppel and lease \u2014 resolved or carved out"
+          },
+          {
+            "t": "Anchor tenant estoppels \u2014 extra scrutiny on co-tenancy / continuous op"
+          },
+          {
+            "t": "REA party estoppels (if required)"
+          },
+          {
+            "t": "SNDAs from lender to tenants (if new financing)"
+          },
+          {
+            "t": "Subordination requirements re-confirmed"
+          }
+        ]
+      },
+      {
+        "title": "2.5 Insurance Transfer",
+        "items": [
+          {
+            "t": "New owner insurance bound effective at closing \u2014 binder delivered"
+          },
+          {
+            "t": "Lender named as mortgagee / loss payee on new policy"
+          },
+          {
+            "t": "REA-required certificate holders added"
+          },
+          {
+            "t": "Tenant additional-insured status preserved or replaced"
+          },
+          {
+            "t": "Existing policy cancellation effective at closing"
+          },
+          {
+            "t": "Pending claims \u2014 clarified who controls (typically seller)"
+          },
+          {
+            "t": "Tail coverage / extended reporting period (if required)"
+          }
+        ]
+      },
+      {
+        "title": "2.6 Banking & Cash Management",
+        "items": [
+          {
+            "t": "Operating bank account opened in buyer entity name"
+          },
+          {
+            "t": "Security deposit trust account opened (separate from operating) [LA: best practice]"
+          },
+          {
+            "t": "Reserve account opened (replacement reserves, TI/LC)"
+          },
+          {
+            "t": "Bank signatories filed (managing member, PM, controller as applicable)"
+          },
+          {
+            "t": "Wire and ACH instructions documented and distributed internally"
+          },
+          {
+            "t": "Lockbox / PO box established for rent receipts (if used)"
+          },
+          {
+            "t": "Online banking access provisioned to PM, bookkeeper, owner"
+          },
+          {
+            "t": "Positive pay / fraud controls enabled"
+          },
+          {
+            "t": "Tenant payment portal configured (DoorLoop, AppFolio, or equivalent)"
+          },
+          {
+            "t": "Credit card processing / merchant account established"
+          }
+        ]
+      },
+      {
+        "title": "2.7 Vendor Assignment & Notification",
+        "items": [
+          {
+            "t": "Service contracts assigned (consents obtained where required)"
+          },
+          {
+            "t": "Vendors notified of ownership change in writing"
+          },
+          {
+            "t": "New billing addresses provided to each vendor"
+          },
+          {
+            "t": "New W-9 from buyer to vendors who owe 1099 reporting"
+          },
+          {
+            "t": "Replacement vendors selected where seller relationship not transferable"
+          },
+          {
+            "t": "Emergency vendor list distributed (24/7 plumbing, electrical, roof, glass, locksmith)"
+          }
+        ]
+      },
+      {
+        "title": "2.8 Keys, Access Codes, Locks",
+        "items": [
+          {
+            "t": "Master key inventory \u2014 physical handover"
+          },
+          {
+            "t": "Sub-master / submaster keys per building / area"
+          },
+          {
+            "t": "Suite keys (where landlord retains spares per lease)"
+          },
+          {
+            "t": "Mechanical / electrical / roof / janitorial closet keys"
+          },
+          {
+            "t": "Alarm codes \u2014 main and per suite"
+          },
+          {
+            "t": "Gate / dumpster enclosure codes"
+          },
+          {
+            "t": "Management office locks rekeyed at closing"
+          },
+          {
+            "t": "Common area door / restroom keys"
+          },
+          {
+            "t": "Roof access keys / hatch codes"
+          },
+          {
+            "t": "Sign / monument access keys"
+          },
+          {
+            "t": "Key log with chain of custody"
+          },
+          {
+            "t": "Decision: rekey master after closing (recommended)"
+          }
+        ]
+      },
+      {
+        "title": "2.9 Utility Transfer",
+        "items": [
+          {
+            "t": "Electric \u2014 common areas, parking lot lighting, signage [LFT: LUS or SLEMCO]"
+          },
+          {
+            "t": "Natural gas (if applicable)"
+          },
+          {
+            "t": "Water / sewer \u2014 landlord meters [LFT: Lafayette Utilities System]"
+          },
+          {
+            "t": "Trash service (if landlord-paid)"
+          },
+          {
+            "t": "Telecom / internet for management office"
+          },
+          {
+            "t": "Irrigation water (if separate meter)"
+          },
+          {
+            "t": "Final meter readings recorded"
+          },
+          {
+            "t": "Deposit refunds requested where applicable"
+          },
+          {
+            "t": "New accounts opened in buyer entity name"
+          },
+          {
+            "t": "Autopay configured"
+          }
+        ]
+      },
+      {
+        "title": "2.10 Mail, Address & Public-Facing Items",
+        "items": [
+          {
+            "t": "USPS mail forwarding from prior owner address (if different)"
+          },
+          {
+            "t": "Property mailing address confirmed (suite for management office)"
+          },
+          {
+            "t": "Registered agent updated [LA: Sec of State filing]"
+          },
+          {
+            "t": "Property website / domain transferred or redirected"
+          },
+          {
+            "t": "Google Business Profile claimed / transferred"
+          },
+          {
+            "t": "Social media account access transferred or new accounts created"
+          },
+          {
+            "t": "On-site signage updated (management contact, leasing inquiries)"
+          }
+        ]
+      },
+      {
+        "title": "3.1 Tenant Directory & Contacts",
+        "items": [
+          {
+            "t": "Full tenant contact list \u2014 primary, secondary, after-hours, emergency"
+          },
+          {
+            "t": "Tenant corporate / regional contacts (for national chains)"
+          },
+          {
+            "t": "Tenant accounting AP contacts (for rent / CAM billing)"
+          },
+          {
+            "t": "Tenant facilities contacts (for service requests)"
+          },
+          {
+            "t": "Tenant insurance broker / agent contacts"
+          },
+          {
+            "t": "Tenant legal counsel (where known)"
+          },
+          {
+            "t": "Co-tenancy / anchor tenant special escalation paths"
+          }
+        ]
+      },
+      {
+        "title": "3.2 Emergency Procedures",
+        "items": [
+          {
+            "t": "24/7 emergency contact line established"
+          },
+          {
+            "t": "Emergency response SOP (water leak, fire, electrical, gas, sewer backup)"
+          },
+          {
+            "t": "Hurricane / severe weather SOP [LA: critical \u2014 pre-season checklist]"
+          },
+          {
+            "t": "Tornado / wind event protocol"
+          },
+          {
+            "t": "Active shooter / security incident protocol"
+          },
+          {
+            "t": "Power outage protocol \u2014 sequence of restoration calls"
+          },
+          {
+            "t": "Tenant evacuation / shelter-in-place plans"
+          },
+          {
+            "t": "Emergency vendor list with after-hours numbers verified"
+          },
+          {
+            "t": "Local first responder contacts [LFT: LPD, LFD, LPSO, EMS]"
+          },
+          {
+            "t": "Property manager on-call rotation"
+          }
+        ]
+      },
+      {
+        "title": "3.3 Property Management Software",
+        "items": [
+          {
+            "t": "Platform selected / continued (DoorLoop, AppFolio, Yardi, MRI, etc.)"
+          },
+          {
+            "t": "Subscription transferred or new account provisioned"
+          },
+          {
+            "t": "Historical data migration completed and verified"
+          },
+          {
+            "t": "Rent roll matches accounting system"
+          },
+          {
+            "t": "Tenant ledgers reconciled"
+          },
+          {
+            "t": "Vendor records imported"
+          },
+          {
+            "t": "Property profile, units, square footage configured"
+          },
+          {
+            "t": "Lease abstracts entered (all critical dates, options, escalations)"
+          },
+          {
+            "t": "Automated rent statements / invoices configured"
+          },
+          {
+            "t": "Late fee rules configured per lease"
+          },
+          {
+            "t": "Tenant portal access provisioned and welcome emails sent"
+          },
+          {
+            "t": "Owner portal access for ownership reporting"
+          },
+          {
+            "t": "User roles / permissions configured (PM, accounting, owner, leasing)"
+          }
+        ]
+      },
+      {
+        "title": "3.4 Maintenance Schedules",
+        "items": [
+          {
+            "t": "HVAC PM schedule by unit (quarterly filter changes, semi-annual service)"
+          },
+          {
+            "t": "Roof inspection schedule (semi-annual, after major storms)"
+          },
+          {
+            "t": "Gutter / drain cleaning schedule"
+          },
+          {
+            "t": "Parking lot striping schedule (typically 2-3 years)"
+          },
+          {
+            "t": "Parking lot sealcoating schedule (typically 3-5 years)"
+          },
+          {
+            "t": "Parking lot light pole inspection and lamp replacement"
+          },
+          {
+            "t": "Pylon / monument sign light replacement schedule"
+          },
+          {
+            "t": "Fire sprinkler inspection (quarterly, annual, 5-year per NFPA 25)"
+          },
+          {
+            "t": "Fire alarm inspection (annual)"
+          },
+          {
+            "t": "Fire extinguisher service (annual, 6-year, 12-year hydrostatic)"
+          },
+          {
+            "t": "Backflow preventer test (annual per local water authority)"
+          },
+          {
+            "t": "Hood / grease trap cleaning (food tenants \u2014 verify tenant or landlord responsibility)"
+          },
+          {
+            "t": "Pest control treatment schedule"
+          },
+          {
+            "t": "Landscape mowing / mulch / seasonal schedule"
+          },
+          {
+            "t": "Pressure washing schedule (sidewalks, parking lot, dumpster areas)"
+          },
+          {
+            "t": "Window cleaning schedule (if applicable)"
+          }
+        ]
+      },
+      {
+        "title": "3.5 Leasing Pipeline & Marketing",
+        "items": [
+          {
+            "t": "Active LOIs in progress \u2014 status and next steps"
+          },
+          {
+            "t": "Drafted leases pending execution"
+          },
+          {
+            "t": "Prospect pipeline log (CRM / spreadsheet)"
+          },
+          {
+            "t": "Broker relationships and current listing agreements"
+          },
+          {
+            "t": "Listing on LoopNet, CoStar, Crexi, etc. \u2014 transfer or relist"
+          },
+          {
+            "t": "Property marketing brochure / flyer (editable source files)"
+          },
+          {
+            "t": "Site plan / availability plan (editable)"
+          },
+          {
+            "t": "Photos (interior, exterior, drone) \u2014 high-res, transferable license"
+          },
+          {
+            "t": "Demographic / trade area study (current within 2 years)"
+          },
+          {
+            "t": "Co-tenancy / use restriction matrix for leasing reference"
+          },
+          {
+            "t": "Standard form lease (most recent version with attorney review date)"
+          }
+        ]
+      },
+      {
+        "title": "3.6 Operating Procedures & Policies",
+        "items": [
+          {
+            "t": "Rent collection policy (grace period, late fees, NSF fees)"
+          },
+          {
+            "t": "Default / cure / eviction SOP [LA: civil law process via Justice of the Peace or City Court]"
+          },
+          {
+            "t": "Service request intake and dispatch SOP"
+          },
+          {
+            "t": "Vendor onboarding requirements (W-9, COI, MSA)"
+          },
+          {
+            "t": "Approval matrix (PM authority, owner approval thresholds)"
+          },
+          {
+            "t": "Capital expenditure approval workflow"
+          },
+          {
+            "t": "Lease execution authority and signing protocols"
+          },
+          {
+            "t": "Tenant relations / complaint resolution SOP"
+          },
+          {
+            "t": "Rules and Regulations document (typically attached to lease)"
+          },
+          {
+            "t": "Document retention policy"
+          }
+        ]
+      },
+      {
+        "title": "4.1 Chart of Accounts & GL",
+        "items": [
+          {
+            "t": "Chart of accounts adopted (or migrated and mapped from seller)"
+          },
+          {
+            "t": "Property-level class / location / department coding"
+          },
+          {
+            "t": "Trial balance as of closing date \u2014 reviewed and accepted"
+          },
+          {
+            "t": "Opening balance sheet \u2014 buyer entity"
+          },
+          {
+            "t": "Closing balance sheet \u2014 seller entity"
+          },
+          {
+            "t": "GL system selected (QuickBooks Online, Sage Intacct, etc.)"
+          },
+          {
+            "t": "Integration with PM platform configured (rent roll \u2192 GL sync)"
+          }
+        ]
+      },
+      {
+        "title": "4.2 Accounts Receivable",
+        "items": [
+          {
+            "t": "AR aging at closing \u2014 by tenant"
+          },
+          {
+            "t": "Disputed / contested charges identified and flagged"
+          },
+          {
+            "t": "Pre-closing AR retained by seller or sold/assigned to buyer (per PSA)"
+          },
+          {
+            "t": "Collection actions in progress and post-closing responsibility"
+          },
+          {
+            "t": "Write-off policy for uncollectible accounts"
+          },
+          {
+            "t": "Bad debt reserve methodology"
+          }
+        ]
+      },
+      {
+        "title": "4.3 Accounts Payable",
+        "items": [
+          {
+            "t": "AP aging at closing \u2014 by vendor"
+          },
+          {
+            "t": "Unbilled work / accrued services identified"
+          },
+          {
+            "t": "Pre-closing AP retained by seller (typical) \u2014 list documented"
+          },
+          {
+            "t": "Stop-payment / wind-down on seller AP"
+          },
+          {
+            "t": "Mechanics liens / privileges potential \u2014 lien waivers from active contractors [LA: Private Works Act]"
+          },
+          {
+            "t": "Outstanding commission obligations to brokers"
+          }
+        ]
+      },
+      {
+        "title": "4.4 CAM Reconciliation Status",
+        "items": [
+          {
+            "t": "Most recent prior-year CAM reconciliation completed and delivered to tenants"
+          },
+          {
+            "t": "Current year CAM estimates (monthly billing) reviewed"
+          },
+          {
+            "t": "Mid-year reconciliation for closing prorations"
+          },
+          {
+            "t": "Tenant CAM credits owed \u2014 list and amounts"
+          },
+          {
+            "t": "Tenant CAM billbacks owed \u2014 list and amounts"
+          },
+          {
+            "t": "CAM caps / stops tracking documented"
+          },
+          {
+            "t": "Methodology documentation transferred (gross-up, exclusions)"
+          }
+        ]
+      },
+      {
+        "title": "4.5 Tax Calendar & Filings",
+        "items": [
+          {
+            "t": "Federal income tax filing deadlines and preparer identified"
+          },
+          {
+            "t": "Louisiana corporate / partnership tax deadlines [LA: LDR]"
+          },
+          {
+            "t": "Quarterly estimated tax payments scheduled"
+          },
+          {
+            "t": "Sales/use tax filing \u2014 landlord rare but required if any direct retail [LA: parish + state]"
+          },
+          {
+            "t": "Personal property / business tangible tax [LFT: Lafayette Parish Assessor LAT-5]"
+          },
+          {
+            "t": "Real estate tax payment cycle [LFT: Lafayette Parish Sheriff's Office / Assessor]"
+          },
+          {
+            "t": "Real estate tax appeal status / deadlines"
+          },
+          {
+            "t": "Annual report filing [LA: Sec of State, due each anniversary]"
+          },
+          {
+            "t": "Occupational license renewal [LFT: LCG, typically annual]"
+          },
+          {
+            "t": "1099 filing process for vendors (Jan 31 deadline)"
+          }
+        ]
+      },
+      {
+        "title": "4.6 Reporting Cadence",
+        "items": [
+          {
+            "t": "Monthly owner package contents defined (P and L, BS, rent roll, variance, AR aging)"
+          },
+          {
+            "t": "Quarterly reporting requirements (lender, investors)"
+          },
+          {
+            "t": "Annual budget process timeline"
+          },
+          {
+            "t": "Annual audit / review / compilation \u2014 preparer and timeline"
+          },
+          {
+            "t": "Lender-required reporting (covenant compliance, T-12, rent roll)"
+          },
+          {
+            "t": "Investor reporting if syndicated"
+          }
+        ]
+      },
+      {
+        "title": "4.7 Software Access",
+        "items": [
+          {
+            "t": "Accounting platform \u2014 admin credentials"
+          },
+          {
+            "t": "Bank portal access for AP / treasury function"
+          },
+          {
+            "t": "Bill.com or equivalent AP platform"
+          },
+          {
+            "t": "Payroll platform if any employees"
+          },
+          {
+            "t": "Tax preparation software / portal"
+          },
+          {
+            "t": "Document management / secure file share"
+          }
+        ]
+      },
+      {
+        "title": "5.1 Counsel Relationships",
+        "items": [
+          {
+            "t": "Outgoing counsel introduction call / file transfer letter"
+          },
+          {
+            "t": "Incoming counsel engagement letter executed"
+          },
+          {
+            "t": "Conflict check completed"
+          },
+          {
+            "t": "Confidential files transferred under joint engagement / waiver letter"
+          },
+          {
+            "t": "Active matter status memo from outgoing counsel"
+          }
+        ]
+      },
+      {
+        "title": "5.2 Active Legal Matters",
+        "items": [
+          {
+            "t": "Eviction / collection actions \u2014 court, docket, status, next hearing"
+          },
+          {
+            "t": "Tenant disputes / arbitrations \u2014 status, position memos"
+          },
+          {
+            "t": "REA disputes \u2014 status and party positions"
+          },
+          {
+            "t": "Insurance claims under counsel"
+          },
+          {
+            "t": "Code enforcement matters"
+          },
+          {
+            "t": "Mechanics lien / privilege defenses [LA: Private Works Act timelines \u2014 confirm with counsel]"
+          }
+        ]
+      },
+      {
+        "title": "5.3 Legal Document Library",
+        "items": [
+          {
+            "t": "Standard form lease (current attorney-approved version)"
+          },
+          {
+            "t": "LOI template"
+          },
+          {
+            "t": "Lease amendment template"
+          },
+          {
+            "t": "Estoppel template"
+          },
+          {
+            "t": "SNDA template"
+          },
+          {
+            "t": "Guaranty template"
+          },
+          {
+            "t": "Default notice templates counsel has approved for this state (the day-count is not in the file name)"
+          },
+          {
+            "t": "Vendor MSA template"
+          },
+          {
+            "t": "NDA template"
+          },
+          {
+            "t": "Demand letter templates"
+          }
+        ]
+      },
+      {
+        "title": "5.4 Corporate Governance Calendar",
+        "items": [
+          {
+            "t": "Annual member / shareholder meeting"
+          },
+          {
+            "t": "Annual report filing date [LA: SOS]"
+          },
+          {
+            "t": "Registered agent renewal"
+          },
+          {
+            "t": "Operating agreement review cycle"
+          },
+          {
+            "t": "Board / member resolutions log"
+          }
+        ]
+      },
+      {
+        "title": "6.1 Site & Exterior",
+        "items": [
+          {
+            "t": "Site plan / parking layout with stall count"
+          },
+          {
+            "t": "ADA parking stalls count and signage compliance"
+          },
+          {
+            "t": "Parking lot lighting inventory (poles, fixtures, controls, photocells)"
+          },
+          {
+            "t": "Bollards, wheel stops, curbing inventory and condition"
+          },
+          {
+            "t": "Landscape inventory (trees, beds, irrigation zones)"
+          },
+          {
+            "t": "Irrigation controller location and zone map"
+          },
+          {
+            "t": "Stormwater inlets / detention basin location and condition"
+          },
+          {
+            "t": "Dumpster enclosures (number, condition, capacity)"
+          },
+          {
+            "t": "Loading dock / service area inventory"
+          },
+          {
+            "t": "Exterior building photographs \u2014 all elevations"
+          },
+          {
+            "t": "Pylon sign \u2014 height, structure, electrical, tenant panels inventory"
+          },
+          {
+            "t": "Monument signs \u2014 same as above"
+          },
+          {
+            "t": "Directional / wayfinding signage inventory"
+          }
+        ]
+      },
+      {
+        "title": "6.2 Roof Systems",
+        "items": [
+          {
+            "t": "Roof type per building (TPO, EPDM, modified bitumen, metal, etc.)"
+          },
+          {
+            "t": "Roof age and remaining warranty per building"
+          },
+          {
+            "t": "Roof warranty documents (NDL, manufacturer, contractor)"
+          },
+          {
+            "t": "Roof inspection reports (last 24 months)"
+          },
+          {
+            "t": "Penetration inventory (HVAC curbs, vents, drains, skylights)"
+          },
+          {
+            "t": "Roof access points and safety equipment"
+          },
+          {
+            "t": "Drainage system (internal drains, scuppers, downspouts)"
+          }
+        ]
+      },
+      {
+        "title": "6.3 HVAC / Mechanical",
+        "items": [
+          {
+            "t": "RTU inventory per suite (manufacturer, model, serial, tonnage, age)"
+          },
+          {
+            "t": "Split system inventory (if applicable)"
+          },
+          {
+            "t": "Tenant vs landlord HVAC responsibility per lease \u2014 matrix"
+          },
+          {
+            "t": "Thermostat / BMS access"
+          },
+          {
+            "t": "Refrigerant type per unit (R-22 phase-out implications)"
+          },
+          {
+            "t": "PM service records last 24 months"
+          },
+          {
+            "t": "Make-up air / exhaust systems (food tenants)"
+          }
+        ]
+      },
+      {
+        "title": "6.4 Electrical",
+        "items": [
+          {
+            "t": "Service entrance location and capacity per building"
+          },
+          {
+            "t": "Meter base inventory (utility meters per tenant + landlord)"
+          },
+          {
+            "t": "Main distribution panel locations"
+          },
+          {
+            "t": "Subpanel locations per tenant"
+          },
+          {
+            "t": "Site lighting panel(s) and controls"
+          },
+          {
+            "t": "Emergency / exit lighting inventory"
+          },
+          {
+            "t": "Generator (if any) \u2014 size, fuel, transfer switch"
+          },
+          {
+            "t": "Solar / on-site generation (none expected but verify)"
+          }
+        ]
+      },
+      {
+        "title": "6.5 Plumbing",
+        "items": [
+          {
+            "t": "Water service entrance and meter inventory"
+          },
+          {
+            "t": "Backflow preventer inventory and test history"
+          },
+          {
+            "t": "Domestic hot water heaters (landlord vs tenant)"
+          },
+          {
+            "t": "Common area restroom fixtures and condition"
+          },
+          {
+            "t": "Grease trap / interceptor inventory (food tenants)"
+          },
+          {
+            "t": "Sewer cleanout locations"
+          },
+          {
+            "t": "Irrigation backflow / RPZ"
+          }
+        ]
+      },
+      {
+        "title": "6.6 Fire & Life Safety",
+        "items": [
+          {
+            "t": "Sprinkler system type per building (wet, dry, pre-action)"
+          },
+          {
+            "t": "Fire pump (if applicable) \u2014 service records"
+          },
+          {
+            "t": "FDC (Fire Department Connection) inventory and access"
+          },
+          {
+            "t": "Fire alarm panel \u2014 make, model, age, monitoring company"
+          },
+          {
+            "t": "Pull stations, horn-strobes, smoke / heat detector inventory"
+          },
+          {
+            "t": "Fire extinguisher inventory (location, type, last service)"
+          },
+          {
+            "t": "Kitchen hood / Ansul systems (food tenants)"
+          },
+          {
+            "t": "Knox box location and key inventory [verify with LFD]"
+          },
+          {
+            "t": "Emergency exit signage inventory"
+          }
+        ]
+      },
+      {
+        "title": "6.7 Security / IT",
+        "items": [
+          {
+            "t": "CCTV camera inventory and DVR/NVR access"
+          },
+          {
+            "t": "Access control / card reader inventory"
+          },
+          {
+            "t": "Alarm system zones and account info"
+          },
+          {
+            "t": "Common area Wi-Fi (if provided)"
+          },
+          {
+            "t": "Management office network / phones"
+          }
+        ]
+      },
+      {
+        "title": "7.1 State of Louisiana",
+        "items": [
+          {
+            "t": "Secretary of State annual report \u2014 filing date and status"
+          },
+          {
+            "t": "Registered agent of record \u2014 verified"
+          },
+          {
+            "t": "LA Department of Revenue \u2014 entity tax registration"
+          },
+          {
+            "t": "Sales and use tax registration (if collecting any direct sales tax)"
+          },
+          {
+            "t": "Workers' compensation coverage [LA: required for any employees]"
+          },
+          {
+            "t": "Louisiana Workforce Commission registration (if employees)"
+          },
+          {
+            "t": "State Fire Marshal annual inspection records"
+          },
+          {
+            "t": "Louisiana Office of Alcohol and Tobacco Control \u2014 landlord disclosures for ABO tenants"
+          },
+          {
+            "t": "LA Real Estate Commission \u2014 broker / PM licensing if managing for others"
+          },
+          {
+            "t": "Notarial / authentic act recording verification for major property documents [LA civil law specifics]"
+          }
+        ]
+      },
+      {
+        "title": "7.2 Lafayette Parish / Lafayette Consolidated Government",
+        "items": [
+          {
+            "t": "Occupational license \u2014 owner entity"
+          },
+          {
+            "t": "Occupational license verification \u2014 each tenant"
+          },
+          {
+            "t": "Lafayette Parish Assessor \u2014 real property records up to date"
+          },
+          {
+            "t": "Personal property declaration (LAT-5) filed"
+          },
+          {
+            "t": "Lafayette Parish Sheriff's Office \u2014 property tax payment status"
+          },
+          {
+            "t": "Lafayette Consolidated Government \u2014 building / zoning compliance"
+          },
+          {
+            "t": "Lafayette Utilities System (LUS) account status"
+          },
+          {
+            "t": "Lafayette Fire Department \u2014 pre-plan / Knox box on file"
+          },
+          {
+            "t": "Lafayette Police Department / LPSO \u2014 patrol coordination"
+          },
+          {
+            "t": "Lafayette Parish Health Unit \u2014 food establishment permits per tenant"
+          }
+        ]
+      },
+      {
+        "title": "7.3 Federal",
+        "items": [
+          {
+            "t": "EIN current and entity classification confirmed"
+          },
+          {
+            "t": "Beneficial Ownership Information (BOI) report to FinCEN \u2014 filed and current"
+          },
+          {
+            "t": "Form 1099 filings for prior year (vendor 1099-NEC, rent 1099-MISC for any landlord status)"
+          },
+          {
+            "t": "ADA Title III compliance documentation"
+          },
+          {
+            "t": "OSHA compliance (if any landlord employees on site)"
+          },
+          {
+            "t": "FEMA flood compliance and current flood insurance per lender"
+          }
+        ]
+      },
+      {
+        "title": "8.1 Days 1\u201330",
+        "items": [
+          {
+            "t": "Property walk with outgoing PM \u2014 full property tour, every suite exterior"
+          },
+          {
+            "t": "Introductory in-person meeting with each tenant (or call for absent operators)"
+          },
+          {
+            "t": "Confirm rent received from each tenant in new account"
+          },
+          {
+            "t": "Verify ACH / payment portal working for each auto-pay tenant"
+          },
+          {
+            "t": "Confirm utility transfers complete with no service interruption"
+          },
+          {
+            "t": "Validate insurance binder converted to full policy with all endorsements"
+          },
+          {
+            "t": "Validate lender escrow / reserve transfers reconciled"
+          },
+          {
+            "t": "Vendor confirmation calls \u2014 service continuing without disruption"
+          },
+          {
+            "t": "Emergency contact line tested"
+          },
+          {
+            "t": "After-hours response drill (water leak / lockout simulation)"
+          },
+          {
+            "t": "Photograph every suite exterior and common area for baseline"
+          },
+          {
+            "t": "Hurricane season readiness check [LA: June 1 \u2013 Nov 30]"
+          }
+        ]
+      },
+      {
+        "title": "8.2 Days 31\u201360",
+        "items": [
+          {
+            "t": "First full monthly close in new GL \u2014 review with bookkeeper"
+          },
+          {
+            "t": "First monthly owner package delivered"
+          },
+          {
+            "t": "CAM billing reviewed for first month under new ownership"
+          },
+          {
+            "t": "Tenant satisfaction survey or check-in calls"
+          },
+          {
+            "t": "Service request volume and response time baseline established"
+          },
+          {
+            "t": "Vendor performance review \u2014 confirm or replace"
+          },
+          {
+            "t": "Active LOI / lease progression"
+          },
+          {
+            "t": "Marketing materials updated with new ownership / PM contact"
+          },
+          {
+            "t": "Website / listing platforms refreshed"
+          },
+          {
+            "t": "Roof and HVAC PM scheduled in calendar"
+          }
+        ]
+      },
+      {
+        "title": "8.3 Days 61\u201390",
+        "items": [
+          {
+            "t": "CAM reconciliation methodology validated through closing-period reconciliation"
+          },
+          {
+            "t": "Post-closing prorations true-up with seller (typical 90-day deadline)"
+          },
+          {
+            "t": "Annual budget review and updates for new ownership assumptions"
+          },
+          {
+            "t": "Capital plan reviewed (roof, parking, HVAC replacement schedule)"
+          },
+          {
+            "t": "Lease abstracts spot-audited against source documents"
+          },
+          {
+            "t": "Tenant COIs audited \u2014 all current, additional insured correct"
+          },
+          {
+            "t": "Vendor COIs audited \u2014 all current"
+          },
+          {
+            "t": "Insurance review with broker \u2014 coverage gaps, claims trends, premium opportunities"
+          },
+          {
+            "t": "Property tax appeal consideration before deadline [LFT: Aug-Sep timeframe typical]"
+          },
+          {
+            "t": "First quarterly lender reporting (if applicable) delivered on time"
+          },
+          {
+            "t": "90-day acknowledgment \u2014 sign-off page in this document"
+          }
+        ]
+      }
+    ]
+  },
+  "res-ach": {
+    "title": "ACH Debit Authorization (blank)",
+    "storageNote": "Progress saves in this browser. The printable blank is the download on the Resources shelf.",
+    "sections": [
+      {
+        "title": "Before this blank leaves the office",
+        "items": [
+          {
+            "t": "Company legal name is the entity that will originate the debit"
+          },
+          {
+            "t": "A prior owner's name, logo, or account is not on the page"
+          },
+          {
+            "t": "Amounts and dates live in the lease or a schedule, and the form points at that writing"
+          },
+          {
+            "t": "The revocation contact is a real address or inbox"
+          },
+          {
+            "t": "Counsel and the bank or processor have reviewed this wording for your originator agreement"
+          },
+          {
+            "t": "The signed original is filed with the lease, and the copy you keep does not become the next tenant's form"
+          }
+        ]
+      }
+    ]
+  },
+  "res-maint": {
+    "title": "Maintenance Control Pack",
+    "storageNote": "Progress saves in this browser. The printable blank is the download on the Resources shelf.",
+    "sections": [
+      {
+        "title": "1. When to open this pack",
+        "items": [
+          {
+            "t": "Takeover: sections 2 and 3 inside 30 days of appointment"
+          },
+          {
+            "t": "Ordinary weeks: section 5 (calendar), section 6 (priorities), section 11 (walk)"
+          },
+          {
+            "t": "Money: section 8 and section 9 at the quarterly owner review, and again at the annual plan"
+          },
+          {
+            "t": "A loss or an after-hours failure: section 10 first, then the vendor list in section 7"
+          }
+        ]
+      },
+      {
+        "title": "Thirty days before, or as soon as you have access",
+        "items": [
+          {
+            "t": "Prior work-order history exported, including anything still open"
+          },
+          {
+            "t": "Vendor list with contract end dates and certificate end dates"
+          },
+          {
+            "t": "Roof, HVAC, fire, and lot warranties located, not described from memory"
+          },
+          {
+            "t": "As-built drawings compared with one walk. Note every mismatch"
+          },
+          {
+            "t": "Keys, codes, and alarm accounts inventoried. Plan the change for day one"
+          },
+          {
+            "t": "Open capital jobs named, with who pays and who is on site"
+          }
+        ]
+      },
+      {
+        "title": "Fourteen days before",
+        "items": [
+          {
+            "t": "After-hours roster confirmed: HVAC, electrical, plumbing, roof, board-up, glass"
+          },
+          {
+            "t": "Utility account numbers and meter locations written down"
+          },
+          {
+            "t": "Known leaks, trip hazards, and dark poles listed with a photo"
+          },
+          {
+            "t": "Tenant contacts for facilities, not only for rent"
+          }
+        ]
+      },
+      {
+        "title": "Seven days before, and day one",
+        "items": [
+          {
+            "t": "Alarm and after-hours test placed on the calendar"
+          },
+          {
+            "t": "Vendors told, in writing, who may approve work and who may not"
+          },
+          {
+            "t": "First walk scheduled with the outgoing manager, every service yard included"
+          },
+          {
+            "t": "Photo set of each elevation, the lot, and the roof access stored with the date"
+          }
+        ]
+      },
+      {
+        "title": "3. First 30 days \u2014 inspection",
+        "items": [
+          {
+            "t": "Every row has a name in the last column, or an explicit \"none this month\""
+          }
+        ]
+      },
+      {
+        "title": "5. Preventive calendar",
+        "items": [
+          {
+            "t": "Each filled cell names a vendor or an in-house owner"
+          },
+          {
+            "t": "Statutory tests (alarm, sprinkler, backflow, hood) show the certificate, not only the visit"
+          }
+        ]
+      },
+      {
+        "title": "6. Work-order priorities",
+        "items": [
+          {
+            "t": "Every order has one owner. \"The team\" is not an owner"
+          },
+          {
+            "t": "Closure includes a photo or a note of what \"done\" means"
+          },
+          {
+            "t": "Anything open past your own limit has a written reason"
+          }
+        ]
+      },
+      {
+        "title": "7. Vendor control",
+        "items": [
+          {
+            "t": "W-9 and entity name match the contract"
+          },
+          {
+            "t": "Certificate of insurance on file, landlord as additional insured where you require it"
+          },
+          {
+            "t": "License checked where the trade requires one"
+          },
+          {
+            "t": "Workers' compensation on file where the law requires it"
+          },
+          {
+            "t": "Scope, price, and who may approve extras are in a writing signed before work"
+          },
+          {
+            "t": "Certificate end date is on a calendar 30 days ahead, and access stops when the certificate lapses"
+          },
+          {
+            "t": "Major contracts (janitorial, landscape, HVAC service, sweeping) have a rebid or a written reason not to rebid on a cycle you chose"
+          },
+          {
+            "t": "Invoices are compared with the contract rate before they are paid"
+          }
+        ]
+      },
+      {
+        "title": "8. Capex plan",
+        "items": [
+          {
+            "t": "A five-year list exists, even if years three through five are ranges"
+          },
+          {
+            "t": "Reserves are a number someone can find, not a percentage mentioned once"
+          }
+        ]
+      },
+      {
+        "title": "10. Emergency response",
+        "items": [
+          {
+            "t": "Water, power, and gas shutoffs are located and labeled"
+          },
+          {
+            "t": "Tenants have a written way to reach you after hours"
+          },
+          {
+            "t": "After a P1, a short note of what happened and what changed is filed within seven days"
+          }
+        ]
+      },
+      {
+        "title": "11. Common-area walk",
+        "items": [
+          {
+            "t": "Storefront glass, walks, and the accessible route"
+          },
+          {
+            "t": "Lot: litter, dumping, carts, striping, lights out"
+          },
+          {
+            "t": "Service yards, enclosures, and gates"
+          },
+          {
+            "t": "Pylon and monument faces, including faces that should be dark because the suite is dark"
+          },
+          {
+            "t": "Standing water, and inlets that did not clear the last rain"
+          },
+          {
+            "t": "Anything a customer would photograph. Write it down before they do"
+          }
+        ]
+      },
+      {
+        "title": "12. Who repairs it",
+        "items": [
+          {
+            "t": "A tenant work request is logged even when the lease makes it the tenant's repair"
+          },
+          {
+            "t": "After-hours work that closes an entrance is noticed ahead of time, with a named contact"
+          }
+        ]
+      },
+      {
+        "title": "15. Retail conditions worth a line of their own",
+        "items": [
+          {
+            "t": "Food tenants: hood, exhaust, and grease interceptor on a schedule, with the last service date"
+          },
+          {
+            "t": "Sign criteria exist, and a new face is checked against them before it is built"
+          },
+          {
+            "t": "Anchor or major-tenant facilities contact is a person you have met"
+          },
+          {
+            "t": "Tenant build-out: penetrations, exhaust, and sprinklers are reviewed before work, and the drawing on file matches what was built"
+          },
+          {
+            "t": "Shared access or drainage that crosses a property line is in the file, not only in someone's head"
+          }
+        ]
+      }
+    ]
+  },
+  "res-owner": {
+    "title": "Owner Reporting Templates",
+    "storageNote": "Progress saves in this browser. The printable blank is the download on the Resources shelf.",
+    "sections": [
+      {
+        "title": "2. Money",
+        "items": [
+          {
+            "t": "Rent roll ties to billed rent, or the gap is named"
+          },
+          {
+            "t": "Collections tie to the bank for the period you claim"
+          },
+          {
+            "t": "Every variance over your rule has a cause and a next step"
+          }
+        ]
+      },
+      {
+        "title": "Quarterly review",
+        "items": [
+          {
+            "t": "Tenant mix: categories you have, categories you are missing, and which expirations make a change possible"
+          },
+          {
+            "t": "Capital: the next four quarters, in dollars, with the jobs you are willing to defer"
+          },
+          {
+            "t": "Recovery: what the leases let you bill, and where the last reconciliation was disputed"
+          },
+          {
+            "t": "Hold period: anything in operations that changes a refinance or a sale conversation"
+          },
+          {
+            "t": "Three risks that are not on the monthly dashboard, each with an owner"
+          }
+        ]
+      }
+    ]
+  },
+  "res-index": {
+    "title": "Operator Resource Index",
+    "storageNote": "Progress saves in this browser. The printable blank is the download on the Resources shelf.",
+    "sections": [
+      {
+        "title": "Day-one questions",
+        "items": [
+          {
+            "t": "Where does the rent roll disagree with the executed leases?"
+          },
+          {
+            "t": "Which dates in the next 24 months change rent, an option, or a termination right?"
+          },
+          {
+            "t": "What is vacant, what is dark, and what is only occupied on the roll?"
+          },
+          {
+            "t": "Which categories would a shopper expect here, and which are missing?"
+          },
+          {
+            "t": "What did the center recover last year, and which leases block a recovery?"
+          },
+          {
+            "t": "What is the condition of roof, HVAC, lot, and life safety, and who pays for each?"
+          },
+          {
+            "t": "Which vendors are on site, and which certificates lapse inside 90 days?"
+          },
+          {
+            "t": "What does ownership receive every month, and who writes it?"
+          },
+          {
+            "t": "Where does the lease put a repair, and where has practice drifted?"
+          },
+          {
+            "t": "What would strain a loan covenant or an insurance condition this quarter?"
+          },
+          {
+            "t": "What is the after-hours path, and when did someone last walk it?"
+          }
+        ]
+      }
+    ]
   }
 }
