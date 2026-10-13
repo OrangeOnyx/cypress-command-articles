@@ -32,7 +32,8 @@ if (process.argv[1] && process.argv[1].endsWith('check-redirects.mjs')) {
     const file = 'dist' + dest + 'index.html';
     if (!existsSync(file)) failures.push(`${path}?${new URLSearchParams(query)} → ${dest} (missing ${file})`);
   }
-  if (slugs.length !== 40) failures.push(`expected 40 series slugs in dist, found ${slugs.length}`);
+  const expected = readdirSync('src/content/articles/shopping-center').filter((f) => /^\d\d-.*\.md$/.test(f)).length;
+  if (slugs.length !== expected) failures.push(`expected ${expected} series slugs in dist, found ${slugs.length}`);
   if (failures.length) { console.error('Redirect check failed:\n' + failures.join('\n')); process.exit(1); }
   console.log(`Redirect check: ${cases.length} legacy URLs resolve`);
 }
