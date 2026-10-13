@@ -8,7 +8,7 @@ author: "Cypress Command"
 date: "2026-09-28"
 read_time: "12 min"
 desk: "lease"
-status: "review"
+status: "published"
 source: "practitioner-reference"
 ---
 
