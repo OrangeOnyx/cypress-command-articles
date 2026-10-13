@@ -9,7 +9,7 @@ date: "2026-09-28"
 read_time: "14 min"
 desk: "finance"
 lanes: ["governed-ai"]
-status: "review"
+status: "published"
 source: "batch-e"
 ---
 

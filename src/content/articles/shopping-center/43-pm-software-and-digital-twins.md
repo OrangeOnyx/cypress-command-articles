@@ -9,7 +9,7 @@ date: "2026-09-28"
 read_time: "15 min"
 desk: "run"
 lanes: ["operating-systems"]
-status: "review"
+status: "published"
 source: "batch-e"
 ---
 
