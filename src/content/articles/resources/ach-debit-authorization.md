@@ -8,7 +8,7 @@ date: "2026-09-28"
 read_time: "6 min"
 desk: "finance"
 lanes: ["operating-systems"]
-status: "review"
+status: "published"
 ---
 
 # ACH Debit Authorization (blank)

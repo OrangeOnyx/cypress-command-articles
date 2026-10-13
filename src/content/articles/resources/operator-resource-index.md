@@ -8,7 +8,7 @@ date: "2026-09-28"
 read_time: "7 min"
 desk: "run"
 lanes: ["shopping-center"]
-status: "review"
+status: "published"
 ---
 
 # Operator Resource Index

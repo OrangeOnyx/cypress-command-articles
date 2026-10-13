@@ -8,7 +8,7 @@ date: "2026-09-28"
 read_time: "14 min"
 desk: "finance"
 lanes: ["small-portfolio"]
-status: "review"
+status: "published"
 ---
 
 # Owner Reporting Templates
