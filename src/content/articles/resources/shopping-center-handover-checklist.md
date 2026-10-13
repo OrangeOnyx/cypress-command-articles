@@ -8,7 +8,7 @@ date: "2026-09-28"
 read_time: "20 min"
 desk: "buy"
 lanes: ["shopping-center"]
-status: "review"
+status: "published"
 ---
 
 # Shopping Center Handover Checklist

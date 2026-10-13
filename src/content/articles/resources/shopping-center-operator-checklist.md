@@ -8,7 +8,7 @@ date: "2026-09-28"
 read_time: "14 min"
 desk: "buy"
 lanes: ["shopping-center"]
-status: "review"
+status: "published"
 ---
 
 # Shopping Center Operator Checklist

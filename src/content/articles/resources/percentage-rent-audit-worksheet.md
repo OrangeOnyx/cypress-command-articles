@@ -8,7 +8,7 @@ date: "2026-09-28"
 read_time: "12 min"
 desk: "finance"
 lanes: ["shopping-center"]
-status: "review"
+status: "published"
 ---
 
 # Percentage Rent Audit Worksheet

@@ -8,7 +8,7 @@ date: "2026-09-28"
 read_time: "18 min"
 desk: "run"
 lanes: ["shopping-center"]
-status: "review"
+status: "published"
 ---
 
 # Shopping Center PM Skill Matrix
