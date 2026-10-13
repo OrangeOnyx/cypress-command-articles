@@ -1,4 +1,6 @@
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
+import { join } from 'node:path';
+import { parseFrontMatter } from './check-content.mjs';
 
 /** Simulates Vercel's redirect matching for literal sources with optional `has` query rules. */
 export function matchRedirect(rules, path, query) {
@@ -32,7 +34,11 @@ if (process.argv[1] && process.argv[1].endsWith('check-redirects.mjs')) {
     const file = 'dist' + dest + 'index.html';
     if (!existsSync(file)) failures.push(`${path}?${new URLSearchParams(query)} → ${dest} (missing ${file})`);
   }
-  const expected = readdirSync('src/content/articles/shopping-center').filter((f) => /^\d\d-.*\.md$/.test(f)).length;
+  const expected = readdirSync('src/content/articles/shopping-center').filter((f) => {
+    if (!/^\d\d-.*\.md$/.test(f)) return false;
+    const fm = parseFrontMatter(readFileSync(join('src/content/articles/shopping-center', f), 'utf8'));
+    return (fm?.status ?? 'published') === 'published';
+  }).length;
   if (slugs.length !== expected) failures.push(`expected ${expected} series slugs in dist, found ${slugs.length}`);
   if (failures.length) { console.error('Redirect check failed:\n' + failures.join('\n')); process.exit(1); }
   console.log(`Redirect check: ${cases.length} legacy URLs resolve`);
