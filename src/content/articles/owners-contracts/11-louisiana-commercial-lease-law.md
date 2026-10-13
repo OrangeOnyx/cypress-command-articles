@@ -8,7 +8,7 @@ author: "Cypress Command"
 date: "2026-09-28"
 read_time: "14 min"
 desk: "lease"
-status: "published"
+status: "review"
 ---
 
 # Louisiana Commercial Lease Law: What the Operator Tracks, and What Counsel Decides
