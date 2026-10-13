@@ -8,7 +8,7 @@ author: "Cypress Command"
 date: "2026-09-28"
 read_time: "15 min"
 desk: "lease"
-status: "review"
+status: "published"
 ---
 
 # Tenant Default and the Louisiana File: Notice, Possession, and the Empty Bay

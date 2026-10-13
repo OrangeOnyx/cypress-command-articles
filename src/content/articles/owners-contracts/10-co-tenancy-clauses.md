@@ -8,7 +8,7 @@ author: "Cypress Command"
 date: "2026-09-28"
 read_time: "16 min"
 desk: "lease"
-status: "review"
+status: "published"
 ---
 
 # Co-Tenancy Clauses: Reading the Trigger Before You Model the Haircut
