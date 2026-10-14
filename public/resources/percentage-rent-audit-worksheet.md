@@ -57,10 +57,10 @@ Cross-reference tenant-reported sales against at least two independent sources w
 | Verification Source | Amount / Data Point | Variance vs. Reported | Notes |
 |---|---|---|---|
 | POS system export (if accessible) | $ | $ | |
-| Sales tax filings (state records) | $ | $ | |
+| Tenant's sales-tax returns (copies, if the lease requires them) | $ | $ | |
 | Credit card processor summary | $ | $ | |
 | Bank deposit records | $ | $ | |
-| Prior-year comparison (±20% rule) | $ | $ | |
+| Prior-year comparison (flag large swings) | $ | $ | |
 | Co-tenancy / anchor sales index | N/A | | |
 
 **Variance Flag:** If any source shows variance greater than the lease's audit trigger threshold (typically 2–5%), escalate to formal audit under lease audit rights clause.
@@ -153,13 +153,13 @@ Track percentage rent trends across three audit periods to identify anomalies.
 | YoY Sales Growth | — | % | % | |
 | Occupancy Cost Ratio (OCR) | % | % | % | |
 
-**OCR Formula:**
-```
-OCR = (Base Rent + Percentage Rent + CAM) ÷ Gross Sales
+**Illustrative screens, not a survey.**
 
-Healthy range: 8–12% for inline tenants
-Anchor tenants: 4–7%
-Food & Beverage: 10–15%
+```
+OCR = (base rent + percentage rent + CAM) ÷ gross sales
+
+Inline tenants: 8–12%
+Food and beverage: 10–15%
 ```
 
 **Red Flags in the Three-Year Comparison:**
@@ -172,7 +172,7 @@ Food & Beverage: 10–15%
 
 ## Part 6 — Audit Rights Trigger Analysis
 
-If variance exceeds the lease threshold, the landlord has the right to demand a formal audit at the tenant's expense (if the audit reveals underpayment above the threshold).
+If variance exceeds the lease threshold, the lease may let the landlord require a formal audit, and may shift the audit cost to the tenant when underreporting exceeds a stated percentage. Read the clause.
 
 | Trigger Condition | Threshold | Status |
 |---|---|---|
@@ -203,9 +203,9 @@ The worksheet stops at the number. If Line 12 is still unpaid after the cure per
 
 ---
 
-## Reference: Key Percentage Rent Benchmarks
+## Illustrative planning bands (not a survey)
 
-| Tenant Category | Typical Breakpoint Range | Typical % Rate | Healthy OCR |
+| Tenant category | Illustrative breakpoint range | Illustrative rate | Illustrative OCR screen |
 |---|---|---|---|
 | Grocery anchor | $8M–$20M | 1.0–1.5% | 2–4% |
 | National inline apparel | $1.5M–$3M | 5–7% | 8–12% |
@@ -214,6 +214,8 @@ The worksheet stops at the number. If Line 12 is still unpaid after the cure per
 | Medical / dental | Rarely applicable | Rarely applicable | N/A |
 | Fitness / gym | $1M–$2M | 4–6% | 8–12% |
 | Restaurant (full-service) | $1M–$2.5M | 5–7% | 10–15% |
+
+Do not paste these into a term sheet. A natural breakpoint is base rent ÷ rate; compute it from the lease.
 
 ---
 

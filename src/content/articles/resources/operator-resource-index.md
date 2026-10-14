@@ -20,7 +20,7 @@ Which worksheet to open, and which series article already covers the topic. Work
 
 A map of this shelf. It is not a set of articles, and it does not stand in for the series already on the site. Open the worksheet when you need a blank. Open the article when you need the argument.
 
-Third-party training packets are not republished here. The questions below are the ones this desk uses. They are not a scoring key from anyone else's course.
+The questions below are the ones Cypress Command uses on a takeover.
 
 This index is operator context. It is not legal, tax, or investment advice.
 
@@ -28,13 +28,13 @@ This index is operator context. It is not legal, tax, or investment advice.
 
 | You are trying to | Open |
 |---|---|
-| Screen a purchase, reconcile CAM, or onboard a vendor | [Shopping Center Operator Checklist](/resources/shopping-center-operator-checklist.md) |
-| Check one tenant's percentage rent for one year | [Percentage Rent Audit Worksheet](/resources/percentage-rent-audit-worksheet.md) |
-| See where your own skill is thin | [Shopping Center PM Skill Matrix](/resources/shopping-center-pm-skill-matrix.md) |
-| Take a center from one operator to another | [Shopping Center Handover Checklist](/resources/shopping-center-handover-checklist.md) |
-| Collect an ACH debit authorization on a blank that has no one's letterhead | [ACH Debit Authorization](/resources/ach-debit-authorization.md) |
-| Run the building: walks, vendors, priorities, capital | [Maintenance Control Pack](/resources/maintenance-control-pack.md) |
-| Tell the owner what happened this month | [Owner Reporting Templates](/resources/owner-reporting-templates.md) |
+| Screen a purchase, reconcile CAM, or onboard a vendor | [Shopping Center Operator Checklist](/resources/shopping-center-operator-checklist/) |
+| Check one tenant's percentage rent for one year | [Percentage Rent Audit Worksheet](/resources/percentage-rent-audit-worksheet/) |
+| See where your own skill is thin | [Shopping Center PM Skill Matrix](/resources/shopping-center-pm-skill-matrix/) |
+| Take a center from one operator to another | [Shopping Center Handover Checklist](/resources/shopping-center-handover-checklist/) |
+| Collect an ACH debit authorization on a blank that has no one's letterhead | [ACH Debit Authorization](/resources/ach-debit-authorization/) |
+| Run the building: walks, vendors, priorities, capital | [Maintenance Control Pack](/resources/maintenance-control-pack/) |
+| Tell the owner what happened this month | [Owner Reporting Templates](/resources/owner-reporting-templates/) |
 
 ## Day-one questions
 
@@ -56,16 +56,16 @@ If you cannot answer these from the file, you are still unpacking the center. Wr
 
 These are published articles. They are the reasoning. The worksheets are the blanks.
 
-- Due diligence as a list: Retail Due Diligence Checklist, in the Shopping Center Operator Series
-- CAM, in prose: CAM and NNN Reconciliation
-- The recurring operating list: The Complete Property Management Checklist
-- The year, month by month: The Annual Operating Calendar
-- What belongs in the safe: The Owner Document Safe
-- Vendors: Vendor Management
-- The weekly cadence: The Weekly Operating Rhythm
-- ACH as a rail, not a form: ACH versus Card for Rent, in Operating Systems
-- The week a debit comes back: The first five days after an ACH return, in Field Notes
-- A monthly owner package across more than one site: The Monthly Owner Report, in the Small Portfolio Series
+- Due diligence as a list: [The Retail Due Diligence Checklist: Leases, Estoppels, Title, and Physical Condition](/shopping-center/06-retail-due-diligence-checklist/)
+- CAM, in prose: [CAM and NNN Reconciliation: Retail Leasing's Most Misunderstood Work](/shopping-center/16-cam-nnn-reconciliation/)
+- The recurring operating list: [The Complete Property Management Checklist: Every Recurring Task, Organized by Rhythm](/shopping-center/36-complete-property-management-checklist/)
+- The year, month by month: [The Annual Operating Calendar: A Year in the Life of a Shopping Center](/shopping-center/38-annual-operating-calendar/)
+- What belongs in the safe: [The Owner Document Safe: A Checklist for Protecting Your Property's Paper](/shopping-center/37-owner-document-safe-checklist/)
+- Vendors: [Vendor Management: Roofs, Lots, Landscaping, and HVAC](/shopping-center/19-vendor-management/)
+- The weekly cadence: [The Weekly Operating Rhythm of a Multi-Tenant Retail Center](/shopping-center/18-weekly-operating-rhythm/)
+- ACH as a rail, not a form: "[ACH or Card: How Multi-Tenant Rent Actually Clears](/operating-systems/11-ach-versus-card-for-rent/)," in Operating Systems
+- The week a debit comes back: [The first five days after an ACH return](/field-notes/failed-ach-follow-up/)
+- A monthly owner package across more than one site: [The Monthly Owner Report: One Page That Scales from Two Sites to Ten](/small-portfolio/06-the-monthly-owner-report/)
 
 ## What does not belong on this shelf
 

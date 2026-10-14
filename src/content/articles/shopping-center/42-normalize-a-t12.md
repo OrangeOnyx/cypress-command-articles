@@ -52,14 +52,14 @@ A termination fee is not stabilized income. The suite it vacated still needs a l
 
 ## Expenses
 
-Management fee is the most common inflation of owner NOI. Owners who manage the property themselves often charge nothing, or charge a related company a token fee. A retail screen used in these drafts is 4 to 6 percent of effective gross income, regardless of what was paid. The rate is the owner's assumption, written down. The model applies it and cites the line it replaced.
+Management fee is the most common inflation of owner NOI. Owners who manage the property themselves often charge nothing, or charge a related company a token fee. A retail screen often used in teaching files is 4 to 6 percent of effective gross income, regardless of what was paid. The rate is the owner's assumption, written down. The model applies it and cites the line it replaced.
 
-Capital items — a roof, a parking-lot resurfacing, a major HVAC replacement, a large tenant improvement — often sit in repairs. Pull them out of operating expenses. Put a reserve back. A retail teaching range is $0.15 to $0.50 per square foot per year. That range is not a quote and not a reserve for a named center.
+Capital items — a roof, a parking-lot resurfacing, a major HVAC replacement, a large tenant improvement — often sit in repairs. Pull them out of operating expenses. Put a reserve back. A retail teaching range is $0.15 to $0.50 per square foot per year. That is an underwriting reserve of the kind lenders hold back. An owner's capital plan for an aging center is a different number and is often higher; the acquisition due diligence reference uses $0.50 to $1.50 per square foot as a placeholder until a property condition assessment replaces it. Neither is a bid. That range is not a quote and not a reserve for a named center.
 
 | Expense | Action | A screen to write down, then check |
 |---|---|---|
 | Management fee | Normalize if missing or thin | 4–6 percent of EGI for many retail files |
-| Capital items | Remove from operations; reserve instead | $0.15–$0.50/SF per year is a teaching band |
+| Capital items | Remove from operations; reserve instead | $0.15–$0.50/SF per year is a teaching band. That is an underwriting reserve of the kind lenders hold back. An owner's capital plan for an aging center is a different number and is often higher; the acquisition due diligence reference uses $0.50 to $1.50 per square foot as a placeholder until a property condition assessment replaces it. Neither is a bid. |
 | Property tax | Tie to the bill | Model reassessment on a sale; use the local millage |
 | Insurance | Tie to the declarations page | Confirm the coverage is the coverage you will carry |
 | Repairs | Separate one-time from recurring | $0.50–$1.50/SF per year is a teaching band for retail |

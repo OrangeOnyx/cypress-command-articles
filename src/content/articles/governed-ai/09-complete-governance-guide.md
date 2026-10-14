@@ -14,7 +14,7 @@ source: "batch-e"
 
 # AI Requirements for CRE Underwriting: A Complete Governance Guide
 
-The underwriting articles in this batch describe what a model may prepare: a rent roll, a trailing twelve-month statement, a sponsor spread, a multifamily loss-to-lease schedule. None of that preparation is a credit decision. This guide is the anchor those pieces assume. It names the frameworks an owner asks counsel about, the oversight a named person has to be able to exercise, and the records that have to exist before anyone treats a model output as an input to a loan, a purchase, or a recommendation to a partner.
+The underwriting articles in the Governed AI and Shopping Center series describe what a model may prepare: a rent roll, a trailing twelve-month statement, a sponsor spread. None of that preparation is a credit decision. This guide is the anchor those pieces assume. It names the frameworks an owner asks counsel about, the oversight a named person has to be able to exercise, and the records that have to exist before anyone treats a model output as an input to a loan, a purchase, or a recommendation to a partner.
 
 Cypress Command does not classify a reader's system, and this article does not. Whether the EU Artificial Intelligence Act, the Equal Credit Opportunity Act, the Fair Housing Act, or the Gramm-Leach-Bliley Act reaches a given workflow is a question for qualified counsel. The operating rule below does not wait on that answer. A model prepares. A named person decides. Every material figure cites a page.
 
@@ -30,7 +30,7 @@ Four instruments come up whenever AI is put in front of a credit file. They are 
 
 | Instrument | What it is | The question to ask counsel |
 |---|---|---|
-| EU AI Act (Regulation (EU) 2024/1689) | A risk-based statute. Annex III lists creditworthiness assessment and credit scoring among high-risk uses. Obligations phase in over several years after the August 2024 entry into force. | Does any output of this tool affect a person or business in the EU, or are we a provider or deployer the Act reaches? |
+| EU AI Act (Regulation (EU) 2024/1689) | A risk-based EU regulation. Annex III, point 5(b), lists AI used to evaluate the creditworthiness of natural persons, or to set their credit score, as high-risk (fraud detection excepted). Rating a company or a property is not that listing on its face. Obligations phase in. The Digital Omnibus, Regulation (EU) 2026/1744, in force July 27, 2026, moved the Annex III high-risk dates to December 2, 2027. | Does any output evaluate an individual's creditworthiness (for example a personal guarantor) with an EU connection, and are we a provider or deployer the Act reaches? |
 | NIST AI Risk Management Framework | A voluntary U.S. framework organized as Govern, Map, Measure, and Manage. Financial uses are commonly treated as higher impact inside that framework. | Which of the four functions will we actually run, and who owns each? |
 | ECOA, Regulation B, and the Fair Housing Act | Federal fair-lending statutes. They follow the decision, including when a model contributed to it. Adverse-action notices have to state principal reasons. "The model scored you low" is not a reason. | Is this workflow a credit decision about a person or a dwelling, or only an investment memo about a property? |
 | Gramm-Leach-Bliley Act Safeguards Rule | A privacy and security rule for customer financial information held by financial institutions and their service providers. | Are we, or is our vendor, holding customer financial information the rule covers? |
@@ -94,11 +94,11 @@ Retail underwriting gives a model more ways to look complete and be wrong. These
 - **Stale comps.** A cap rate or rent comp from a different year or trade area is not a fact about this center.
 - **Inconsistent owner books.** The same property described three ways in a T12, a tax return, and a rent roll is a stop, not an average.
 
-"How to Normalize a T12 Statement for CRE Underwriting" and "AI Requirements for CRE Underwriting: Shopping Centers and Owner Financials" are the working versions of those risks. This guide is why their outputs stay drafts until a person signs.
+"How to Normalize a T12 Statement for CRE Underwriting" and "Underwriting a Shopping Center with AI: Rent Rolls, Co-Tenancy, and Owner Financials" are the working versions of those risks. This guide is why their outputs stay drafts until a person signs.
 
 ## A sequence an owner can actually run
 
-The source material for this guide laid the work out in four phases. The sequence below keeps that order and drops the assumption that every reader must stamp the system "high-risk" on day one. Counsel's classification, if one is required, is a task inside phase one, not a slogan.
+The work runs in four phases. The sequence below drops the assumption that every reader must stamp the system "high-risk" on day one. Counsel's classification, if one is required, is a task inside phase one, not a slogan.
 
 **Weeks 1–4. Write the use down.** Name the tool, the documents it may see, and the decisions it may not make. Appoint the person who signs. Ask counsel which of the four frameworks apply. Sample a past file: can every material figure be opened to a page? Read the vendor contract for audit rights and for what happens to the documents.
 

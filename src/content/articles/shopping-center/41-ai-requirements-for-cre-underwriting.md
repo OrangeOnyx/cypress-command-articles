@@ -1,5 +1,5 @@
 ---
-title: "AI Requirements for CRE Underwriting: Shopping Centers and Owner Financials"
+title: "Underwriting a Shopping Center with AI: Rent Rolls, Co-Tenancy, and Owner Financials"
 series: "The Shopping Center Operator Series"
 part: "Part X — AI & Operating Systems"
 eyebrow: "AI & OPERATING SYSTEMS"
@@ -13,7 +13,7 @@ status: "published"
 source: "batch-e"
 ---
 
-# AI Requirements for CRE Underwriting: Shopping Centers and Owner Financials
+# Underwriting a Shopping Center with AI: Rent Rolls, Co-Tenancy, and Owner Financials
 
 A shopping center is not a single rent. It is a stack of leases whose sales, expirations, and co-tenancy clauses move together. A model is useful on that stack because it can read faster than an analyst. It is dangerous on that stack for the same reason: a tidy rent roll looks like the whole file. This article is the operator's list of what the model may prepare, what it has to be pointed at, and what a person still signs. Figures below are synthetic. They are not On The Blvd and not a listing.
 
@@ -70,7 +70,7 @@ Percentage rent is the other direction. Illustrative tenant, not a real suite:
 
 Eighteen percent occupancy cost is a watch point in this teaching file, not a universal law. Category matters. A grocer and a jeweler do not share a healthy band. The model can rank tenants. The owner decides which ranks are real.
 
-Where sales exist, occupancy cost is total occupancy cost divided by annual gross sales. Bands used as a screen, not as a covenant: at or under 8 percent often reads as comfortable, 10 to 14 percent as a watch, and 18 percent and above as stressed. Sales per square foot is the pair to that ratio. In the example, $700,000 on 3,000 square feet is about $233 a square foot. Both numbers go on the watch list. Neither is a renewal decision.
+Where sales exist, occupancy cost is total occupancy cost divided by annual gross sales. Bands used as a teaching screen, not a covenant: under about 10 percent often reads as comfortable, about 10 percent up to 18 percent as a watch, and 18 percent and above as stressed. Category moves the band. Sales per square foot is the pair to that ratio. In the example, $700,000 on 3,000 square feet is about $233 a square foot. Both numbers go on the watch list. Neither is a renewal decision.
 
 ## Owner financials are document work
 

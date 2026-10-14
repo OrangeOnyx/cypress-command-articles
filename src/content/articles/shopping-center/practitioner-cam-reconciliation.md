@@ -74,15 +74,15 @@ A cap limits how fast a tenant's CAM can rise. The structures are not interchang
 | Cap | Applies to | Resets? | Who it tends to favor |
 | --- | --- | --- | --- |
 | Fixed annual | All CAM, or all capped CAM | Yes, off last year's actual | Tenant, if a down year lowers the base |
-| Cumulative | All CAM, compounded off a base year | No | Landlord, if early years ran under the cap |
+| Cumulative | All CAM, compounded off a base year | No | Landlord, because unused room in low years carries forward |
 | Controllable only | Costs the landlord influences | Depends on the lease | Common compromise |
 | None | Actual cost | Not applicable | Landlord |
 
-A fixed annual cap of 5% means this year's bill cannot exceed last year's actual by more than 5%. If actual cost falls, next year's ceiling falls with it. A cumulative cap compounds from the first year's base and does not give back a year that came in low. You cannot "catch up" later just because you billed less early.
+A fixed annual cap of 5% means this year's bill cannot exceed last year's actual by more than 5%. If actual cost falls, next year's ceiling falls with it. A cumulative cap compounds from the base year: the ceiling for year three is the base times the cap rate compounded over three years. A year that comes in under its ceiling leaves room the landlord can use later, so a later bill can rise by more than one year's percentage as long as it stays under the compounded ceiling. That carry-forward is why cumulative caps tend to favor the landlord. A non-cumulative cap gives up unused room each year. Which base each cap uses is a sentence in the lease. Abstract it.
 
 A controllable cap is the shape many current deals use. Management, landscaping, and similar costs sit under the cap. Taxes, insurance, and utilities pass through at actual cost because the landlord does not set them. The definition of "controllable" is in the lease. Do not assume utilities are out because that is common. Confirm the list.
 
-An expense stop is a different tool, more common in gross and modified-gross deals: the landlord absorbs costs up to a threshold, and the tenant pays the excess. A cap limits the increase. A stop sets a floor the landlord keeps. Do not use the words as synonyms.
+An expense stop is a different tool, more common in gross and modified-gross deals: the landlord absorbs costs up to a threshold, and the tenant pays the excess. A cap limits how fast the tenant's share can rise. A stop fixes the amount of cost the landlord absorbs; the tenant pays what exceeds it. Do not use the words as synonyms.
 
 ## The annual cycle
 
