@@ -68,9 +68,9 @@ Percentage rent is the other direction. Illustrative tenant, not a real suite:
 | Natural breakpoint | $1,500,000 ($90,000 ÷ 0.06) | Calculated |
 | Percentage rent due | $0, sales are below the breakpoint | Calculated |
 
-Eighteen percent occupancy cost is a watch point in this teaching file, not a universal law. Category matters. A grocer and a jeweler do not share a healthy band. The model can rank tenants. The owner decides which ranks are real.
+Eighteen percent occupancy cost is the start of the stressed screen in this teaching file, not a universal law. Category matters. A grocer and a jeweler do not share a healthy band. The model can rank tenants. The owner decides which ranks are real.
 
-Where sales exist, occupancy cost is total occupancy cost divided by annual gross sales. Bands used as a teaching screen, not a covenant: under about 10 percent often reads as comfortable, about 10 percent up to 18 percent as a watch, and 18 percent and above as stressed. Category moves the band. Sales per square foot is the pair to that ratio. In the example, $700,000 on 3,000 square feet is about $233 a square foot. Both numbers go on the watch list. Neither is a renewal decision.
+Where sales exist, occupancy cost is total occupancy cost divided by annual gross sales. Bands used as a teaching screen, not a covenant: under about 10 percent often reads as comfortable, from about 10 percent up to but not including 18 percent as a watch, and 18 percent and above as stressed. Category moves the band. Sales per square foot is the pair to that ratio. In the example, $700,000 on 3,000 square feet is about $233 a square foot. Both numbers go on the watch list. Neither is a renewal decision.
 
 ## Owner financials are document work
 

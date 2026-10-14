@@ -381,7 +381,7 @@
             "t": "Identify deferred maintenance from broker tour"
           },
           {
-            "t": "Confirm parking ratio (minimum 4.0/1,000 sf)"
+            "t": "Confirm the parking count against the zoning approval and any variance. The approval governs; 4 per 1,000 sf is only a common discussion point."
           },
           {
             "t": "Check zoning and permitted uses"
@@ -395,7 +395,7 @@
             "t": "Normalize T12: remove non-recurring income"
           },
           {
-            "t": "Add back owner-managed expenses to market rate"
+            "t": "Replace owner-managed costs with market rates, including a market management fee if the owner charged none"
           },
           {
             "t": "Verify CAM recovery ratio (target: 85\u201395%)"
@@ -404,7 +404,7 @@
             "t": "Model vacancy at 5\u201310% stabilized"
           },
           {
-            "t": "Calculate management fee at 3\u20135% EGI"
+            "t": "Apply a management fee you will actually pay (illustrative 4\u20136% of EGI)"
           },
           {
             "t": "Confirm CapEx reserve: $0.50\u2013$1.50/sf/yr"
@@ -436,7 +436,7 @@
             "t": "Identify exclusivity restrictions on future leasing"
           },
           {
-            "t": "Confirm personal guaranty on all leases"
+            "t": "Confirm which leases carry a guaranty (personal or corporate), who signed it, and any burn-off"
           },
           {
             "t": "Review percentage rent clauses and breakpoints"
@@ -2730,7 +2730,7 @@
             "t": "EIN current and entity classification confirmed"
           },
           {
-            "t": "Beneficial Ownership Information (BOI) report to FinCEN \u2014 filed and current"
+            "t": "FinCEN beneficial ownership (BOI): entities formed in the U.S. are exempt (interim final rule March 26, 2025; final rule effective Aug 14, 2026). Only foreign entities registered to do business in a U.S. state still report. Confirm the entity's status with counsel or the CPA."
           },
           {
             "t": "Form 1099 filings for prior year (vendor 1099-NEC, rent 1099-MISC for any landlord status)"

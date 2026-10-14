@@ -70,7 +70,7 @@ No stage is skipped. The point of the order is to stop anchoring: the person wri
 
 An override is allowed. An undocumented override is a missing file. Overrides are not a way around a protected characteristic. The business must be technically able to disregard the model. A tool that will not proceed without accepting its recommendation is not fit for this protocol.
 
-**A. Model says pass, owner says buy or refinance.** Write the factors the model missed or overweighted, and the way you are covering the risks it did flag. The owner signs. If the deal is above the size you wrote down, the second reader signs too.
+**A. Model says stop/decline, owner says buy or refinance.** Write the factors the model missed or overweighted, and the way you are covering the risks it did flag. The owner signs. If the deal is above the size you wrote down, the second reader signs too.
 
 **B. Model says go, owner says stop.** Write the risk the model missed. The owner signs. A second signature is not required for the stop itself. If the reason could track a protected characteristic, that is scenario C.
 
