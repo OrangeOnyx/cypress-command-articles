@@ -884,8 +884,8 @@
         "title": "How to use the matrix",
         "items": [
           {
-            "t": "Score every row at a whole level from 1 to 5",
-            "n": "A level 4 still includes the work at level 2."
+            "t": "Score every row at a whole step from 1 to 5",
+            "n": "A step 4 still includes the work at step 2."
           },
           {
             "t": "Circle the two rows with the widest gap between where you are and where the center needs you",
