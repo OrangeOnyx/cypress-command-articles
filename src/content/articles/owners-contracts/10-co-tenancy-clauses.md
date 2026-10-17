@@ -108,7 +108,7 @@ The dependency list is the step that fails when leases are read one at a time. T
 
 Once the rows are checked, three scenarios are enough to start a conversation: one named anchor leaves, an occupancy floor is breached under the definition in the leases, and every anchor-dependent clause is assumed to run at once. A probability-weighted blend is useful only if you can say where the probabilities came from. Otherwise report the scenarios separately.
 
-Illustrative impact bands from the source draft of this article, for discussion, not a forecast:
+Illustrative impact bands, for discussion, not a forecast:
 
 | Scenario | Assumed condition | Illustrative share of base rent | Termination rights in the story |
 |---|---|---|---|
@@ -156,9 +156,9 @@ A dashboard that is not tied to those four records is a picture of a spreadsheet
 
 ## A metrics sheet for the file, not a benchmark
 
-Use this sheet to see whether the abstract is finished. The ranges are the illustrative bands carried in the source draft. They are flags for a conversation, not underwriting rules.
+Use this sheet to see whether the abstract is finished. The ranges are illustrative bands. They are flags for a conversation, not underwriting rules.
 
-| Metric | What to count | Illustrative band in the source draft | Question it should raise |
+| Metric | What to count | Illustrative band | Question it should raise |
 |---|---|---|---|
 | Clause prevalence | Share of leases with a co-tenancy provision | Often sketched as 30–60% | Above that, do you have a stress test? |
 | Anchor concentration | Anchor area as a share of center area | Often sketched as 15–35% | Above that, how many leases name that anchor? |

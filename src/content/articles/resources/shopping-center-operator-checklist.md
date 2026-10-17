@@ -24,7 +24,7 @@ Benchmarks in the last table are ranges to test against the lease, the market, a
 
 ---
 
-## PART 1: ACQUISITION DUE DILIGENCE CHECKLIST
+## Part 1: Acquisition due diligence checklist
 
 ### Phase I: Pre-LOI Screening
 - [ ] Confirm property type: open-air, strip, neighborhood, power, lifestyle
@@ -35,15 +35,15 @@ Benchmarks in the last table are ranges to test against the lease, the market, a
 - [ ] Check co-tenancy clause exposure
 - [ ] Review trailing 12-month (T12) operating statement
 - [ ] Identify deferred maintenance from broker tour
-- [ ] Confirm parking ratio (minimum 4.0/1,000 sf)
+- [ ] Confirm the parking count against the zoning approval and any variance. The approval governs; 4 per 1,000 sf is only a common discussion point.
 - [ ] Check zoning and permitted uses
 
 ### Phase II: Financial Underwriting
 - [ ] Normalize T12: remove non-recurring income
-- [ ] Add back owner-managed expenses to market rate
+- [ ] Replace owner-managed costs with market rates, including a market management fee if the owner charged none
 - [ ] Verify CAM recovery ratio (target: 85–95%)
 - [ ] Model vacancy at 5–10% stabilized
-- [ ] Calculate management fee at 3–5% EGI
+- [ ] Apply a management fee you will actually pay (illustrative 4–6% of EGI)
 - [ ] Confirm CapEx reserve: $0.50–$1.50/sf/yr
 - [ ] Stress-test DSCR at 1.25x minimum
 - [ ] Model anchor vacancy scenario
@@ -54,7 +54,7 @@ Benchmarks in the last table are ranges to test against the lease, the market, a
 - [ ] Abstract all leases: base rent, term, options, CAM, exclusives
 - [ ] Flag co-tenancy clauses and trigger conditions
 - [ ] Identify exclusivity restrictions on future leasing
-- [ ] Confirm personal guaranty on all leases
+- [ ] Confirm which leases carry a guaranty (personal or corporate), who signed it, and any burn-off
 - [ ] Review percentage rent clauses and breakpoints
 - [ ] Check ROFO/ROFR provisions
 - [ ] Identify lease termination rights
@@ -88,7 +88,7 @@ Benchmarks in the last table are ranges to test against the lease, the market, a
 
 ---
 
-## PART 2: CAM RECONCILIATION CHECKLIST
+## Part 2: CAM reconciliation checklist
 
 ### Annual Reconciliation Process
 - [ ] Pull prior-year CAM budget vs. actual comparison
@@ -126,7 +126,7 @@ Benchmarks in the last table are ranges to test against the lease, the market, a
 
 ---
 
-## PART 3: TENANT DEFAULT RESPONSE CHECKLIST
+## Part 3: Tenant default response checklist
 
 ### Monetary Default
 - [ ] Confirm default: missed payment, partial payment, or NSF
@@ -162,7 +162,7 @@ Benchmarks in the last table are ranges to test against the lease, the market, a
 
 ---
 
-## PART 4: VENDOR MANAGEMENT CHECKLIST
+## Part 4: Vendor management checklist
 
 ### Vendor Onboarding
 - [ ] Obtain W-9 and verify entity type
@@ -199,7 +199,7 @@ Benchmarks in the last table are ranges to test against the lease, the market, a
 
 ---
 
-## KEY BENCHMARKS REFERENCE
+## Illustrative ranges to test
 
 | Metric | Target Range |
 |--------|-------------|
@@ -207,9 +207,9 @@ Benchmarks in the last table are ranges to test against the lease, the market, a
 | CAM Recovery Rate | 85–95% |
 | Controllable CAM Cap | 3–5% annual increase |
 | CapEx Reserve | $0.50–$1.50/sf/yr |
-| Parking Ratio | ≥4.0/1,000 sf |
+| Parking Ratio | Per the zoning approval |
 | DSCR Minimum | 1.25x |
-| Management Fee | 3–5% of EGI |
+| Management Fee | Illustrative 4–6% of EGI |
 | Phase I Cost | $2,500–$4,500 |
 | DD Period | 30–60 days |
 | CAM Reconciliation Deadline | 90–120 days post year-end |

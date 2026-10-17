@@ -759,7 +759,7 @@ Louisiana is a civil law jurisdiction — terminology and procedure differ from 
 ### 7.3 Federal
 
 - [ ] EIN current and entity classification confirmed
-- [ ] Beneficial Ownership Information (BOI) report to FinCEN — filed and current
+- [ ] FinCEN beneficial ownership (BOI): entities formed in the U.S. are exempt (interim final rule March 26, 2025; final rule effective Aug 14, 2026). Only foreign entities registered to do business in a U.S. state still report. Confirm the entity's status with counsel or the CPA.
 - [ ] Form 1099 filings for prior year (vendor 1099-NEC, rent 1099-MISC for any landlord status)
 - [ ] ADA Title III compliance documentation
 - [ ] OSHA compliance (if any landlord employees on site)
